@@ -1,2 +1,2 @@
-# GitHubHebreu
+# Hebreu
  Grammaire hébreu
