@@ -1,0 +1,396 @@
+    },
+    "Credo et Hymnes du N.T": {
+        "Position": "1",
+        "nomAAfficher": "Credo et Hymnes du N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Guerir et Sauver dans les Evangiles": {
+        "Position": "2",
+        "nomAAfficher": "Guérir et Sauver dans les Evangiles",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Le 'Notre Pere' et sa traduction": {
+        "Position": "3",
+        "nomAAfficher": "Le 'Notre Père' et sa traduction",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "La Transfiguration synopse Mt, Mc, Lc": {
+        "Position": "4",
+        "nomAAfficher": "La Transfiguration : synopse Mt, Mc, Lc",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Vocabulaire de la Redemption dans le N.T": {
+        "Position": "5",
+        "nomAAfficher": "Vocabulaire de la Rédemption dans le N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Sujets en vrac": {
+        "Position": "6",
+        "nomAAfficher": "Divers sujets en vrac",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Formules liturgiques": {
+        "Position": "1",
+        "nomAAfficher": "Formules liturgiques",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Source = Evangiles en Grec (Mt 6 et Lc 11)": {
+        "Position": "2",
+        "nomAAfficher": "Source = Evangiles en Grec (Mt 6 et Lc 11)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Source = Evangiles en langues orientales": {
+        "Position": "3",
+        "nomAAfficher": "Source := Evangiles en langues orientales",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Source = Evangiles en latin": {
+        "Position": "4",
+        "nomAAfficher": "Source := Evangiles en latin",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Traductions recentes": {
+        "Position": "5",
+        "nomAAfficher": "Traductions récentes",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "l'herbe verte en Mc 6,39": {
+        "Position": "1",
+        "nomAAfficher": "l'herbe verte en Mc 6,39",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "fruits bons et fruits pouris dans le N.T": {
+        "Position": "2",
+        "nomAAfficher": "fruits bons et fruits pouris dans le N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "au large' ou 'en eau profonde' Lc 5,1-11": {
+        "Position": "3",
+        "nomAAfficher": "'au large' ou 'en eau profonde' ? Lc 5,1-11",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "splancnizomai = 'pris aux tripes' dans le N.T": {
+        "Position": "4",
+        "nomAAfficher": "splancnizomai = 'pris aux tripes' dans le N.T. µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Le N.P. liturgique en diverses langues": {
+        "Position": "1",
+        "nomAAfficher": "Le N.P. liturgique en diverses langues",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Le N.P. liturgique hebreu et semitique": {
+        "Position": "2",
+        "nomAAfficher": "Le N.P. liturgique hebreu et semitique µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Le N.P. liturgique neerlandais": {
+        "Position": "3",
+        "nomAAfficher": "Le N.P. liturgique neerlandais µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Le N.P. en arameen phonetique": {
+        "Position": "4",
+        "nomAAfficher": "Le N.P. en arameen phonetique µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Le Notre Pere liturgique. Evolution": {
+        "Position": "5",
+        "nomAAfficher": "Le Notre Pere liturgique. Evolution",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Grec STE = Etienne et Erasme 1546-1551": {
+        "Position": "1",
+        "nomAAfficher": "Synopse Grec STE = Etienne et Erasme 1546-1551",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Grec Elzevir Textus Receptus 1624": {
+        "Position": "2",
+        "nomAAfficher": "Synopse Grec Elzevir Textus Receptus 1624",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Crec SCR = Scrivener Textus Receptue 1894": {
+        "Position": "3",
+        "nomAAfficher": "Synopse Crec SCR = Scrivener Textus Receptue 1894",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Grec TRG = Tregelles 1857-1879-2009": {
+        "Position": "4",
+        "nomAAfficher": "Synopse Grec TRG = Tregelles 1857-1879-2009",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Grec TIS et WHT = Tischendorf et Westcott-Hort 1881-2010": {
+        "Position": "5",
+        "nomAAfficher": "Synopse Grec TIS et WHT = Tischendorf et Westcott-Hort 1881-2010",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Grec Nestle-Aland BNT, 27 edition, 1996-2010": {
+        "Position": "6",
+        "nomAAfficher": "Synopse Grec Nestle-Aland BNT, 27 edition, 1996-2010 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse Syriaque Peshitta en lettres hebraiques": {
+        "Position": "1",
+        "nomAAfficher": "Synopse Syriaque Peshitta en lettres hebraiques µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse. Retroversion en Hebreu. Delitzsch 1923": {
+        "Position": "2",
+        "nomAAfficher": "Synopse. Retroversion en Hebreu. Delitzsch 1923 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "Synopse. Retroversion en Hebreu. Salkinson 1999": {
+        "Position": "3",
+        "nomAAfficher": "Synopse. Retroversion en Hebreu. Salkinson 1999 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "1546.Synopse Vulgate Biblia de Robert Estienne": {
+        "Position": "1",
+        "nomAAfficher": "1546.Synopse Vulgate Biblia de Robert Estienne",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "1861.Synopse Vulgate Clementine": {
+        "Position": "2",
+        "nomAAfficher": "1861.Synopse Vulgate Clementine",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "1979.Synopse Vulgate Nova Vulgata": {
+        "Position": "3",
+        "nomAAfficher": "1979.Synopse Vulgate Nova Vulgata",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "1994.Synopse Vulgate de Stuttgart": {
+        "Position": "4",
+        "nomAAfficher": "1994.Synopse Vulgate de Stuttgart",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction Osty 1973": {
+        "Position": "1",
+        "nomAAfficher": "traduction Osty 1973",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction litterale de Sr J.d'Arc 1986-87": {
+        "Position": "2",
+        "nomAAfficher": "traduction litterale de Sr J.d'Arc 1986-87 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction Bible de Jerusalem 1998": {
+        "Position": "3",
+        "nomAAfficher": "traduction Bible de Jerusalem 1998 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction Bible Bayard.Nouvelle trad 2001": {
+        "Position": "4",
+        "nomAAfficher": "traduction Bible Bayard.Nouvelle trad 2001",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction Nouvelle Bible Segond 2002": {
+        "Position": "5",
+        "nomAAfficher": "traduction Nouvelle Bible Segond 2002",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction T.O.B. 2010": {
+        "Position": "6",
+        "nomAAfficher": "traduction T.O.B. 2010",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "traduction liturgique 2013": {
+        "Position": "7",
+        "nomAAfficher": "traduction liturgique 2013",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "l'herbe verte en Mc 6,39": {
+        "Position": "1",
+        "nomAAfficher": "l'herbe verte en Mc 6,39",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "fruits bons et fruits pouris dans le N.T": {
+        "Position": "2",
+        "nomAAfficher": "fruits bons et fruits pouris dans le N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "'au large' ou 'en eau profonde' Lc 5,1-11": {
+        "Position": "3",
+        "nomAAfficher": "'au large' ou 'en eau profonde'? Lc 5,1-11",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+    "splancnizomai = 'pris aux tripes' dans le N.T": {
+        "Position": "4",
+        "nomAAfficher": "splancnizomai = 'pris aux tripes' dans le N.T. µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 

@@ -1,0 +1,3772 @@
+{
+# /D1
+    "Grammaire Hebraique": { 
+        "Position": "1",
+        "nomAAfficher": "Grammaire H\u00e9bra\u00efque",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /D2
+    "Mots et Themes bibliques": {
+        "Position": "2",
+        "nomAAfficher": "Mots et Th\u00e8mes bibliques",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D1
+    "A.Elements de base de la Grammaire": {
+        "Position": "1",
+        "nomAAfficher": "\u00c9l\u00e9ments de base de la grammaire",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D2
+    "B.Les Verbes. Repertoire lexical": {
+        "Position": "2",
+        "nomAAfficher": "Les verbes. R\u00e9pertoire lexical",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D3
+    "C.Les Verbes.Tableaux des conjugaisons": {
+        "Position": "3",
+        "nomAAfficher": "Les verbes. Tableaux des conjugaisons",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D4
+    "CD.Les te'amim, pour savourer l'hebreu": {
+        "Position": "4",
+        "nomAAfficher": "Les te'amim, pour \"savourer\" l'h\u00e9breu",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D5
+    "D.Autres dossiers (de grammaire)": {
+        "Position": "5",
+        "nomAAfficher": "Autres dossiers (de grammaire)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D6
+    "E.Memoire sur le Waw conversif": {
+        "Position": "6",
+        "nomAAfficher": "M\u00e9moire sur le \"Waw conversif\"",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Éléments de base de la grammaire/F1
+    "3.000 Liste codee des tableaux de conjugaison": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baListe cod\u00e9e des tableaux de conjugaison",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.000",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "6 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Éléments de base de la grammaire/F2
+    "cours Grammaire assemble": {
+        "Position": "2",
+        "nomAAfficher": "\u25ba\u25baPetit cours : \u00e9l\u00e9ments de base pour une grammaire de l'h\u00e9breu",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "77 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Éléments de base de la grammaire/F3
+    "Les alphabets bibliques.Hebreu et Grec": {
+        "Position": "3",
+        "nomAAfficher": "Les alphabets bibliques : H\u00e9breu et Grec",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 p. Couleurs",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Répertoire lexical/F1
+    "3.0 Repertoire lexical des verbes hebreux": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baR\u00e9pertoire lexical des verbes (h\u00e9breux) de la Bible H\u00e9bra\u00efque",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.0",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "R\u00e9pertoire 131 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Répertoire lexical/F2
+    "3.0+S Supplement lexique arameen": {
+        "Position": "2",
+        "nomAAfficher": "Suppl\u00e9ment : R\u00e9pertoire des verbes aram\u00e9ens de la Bible",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.0+S",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 7 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D1
+    "3.0 Generalite. Les binyanim": {
+        "Position": "1",
+        "nomAAfficher": "3.0 - G\u00e9n\u00e9ralit\u00e9s. Les binyan\u00eem",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.0",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D2
+    "3.1 Conjugaison theorique et verbe Shalem": {
+        "Position": "2",
+        "nomAAfficher": "3.1 - La conjugaison th\u00e9orique et le verbe shal\u00e9m",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.1",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D3
+    "3.2 Verbe avec Gutturale": {
+        "Position": "3",
+        "nomAAfficher": "3.2 - Le verbe avec gutturale (\u05d2\u05bc\u05f3 = gutturale)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.2",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D4
+    "3.3 Verbe avec Alef quiescent": {
+        "Position": "4",
+        "nomAAfficher": "3.3 - Le verbe avec un Alef quiescent",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.3",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D5
+    "3.4 Verbe avec Nun": {
+        "Position": "5",
+        "nomAAfficher": "3.4 - Le verbe avec un Nun (\u05e4\u05f4\u05df = P\u00e9\"Nun)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.4",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D6
+    "3.5 Verbe avec Yod ou Waw": {
+        "Position": "6",
+        "nomAAfficher": "3.5 - Le verbe avec un Yod ou un Waw (y compris \u05dc\u05f4\u05d4 = Lamed\"H\u00e9)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.5",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D7
+    "3.6 Verbe Gemine. Ayin-Ayin": {
+        "Position": "7",
+        "nomAAfficher": "3.6 - Le verbe g\u00e9min\u00e9 (\u05e2\u05f4\u05e2 = Ayin\"Ayin)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.6",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D8
+    "3.7 Verbes complexes": {
+        "Position": "8",
+        "nomAAfficher": "3.7 - Les verbes complexes",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.7",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D9
+    "3.8 Verbes hybrides": {
+        "Position": "9",
+        "nomAAfficher": "3.8 - Les verbes \"hybrides\" (ou d\u00e9fectifs)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.8",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/D10
+    "3.9 Verbes irreguliers ou a probleme": {
+        "Position": "10",
+        "nomAAfficher": "3.9 - Les verbes irr\u00e9guliers ou \"\u00e0 probl\u00e8me\"",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.9",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.0 - Généralités. Les binyanîm/F1
+    "3.000 Liste codee des tableaux de conjugaison-bis": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baListe cod\u00e9e des tableaux de conjugaison",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.000",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "6 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.0 - Généralités. Les binyanîm/F2
+    "3.010 Tableau des binyanim": {
+        "Position": "2",
+        "nomAAfficher": "\u25ba\u25baTableau des binyan\u00eem",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.010",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "2 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.0 - Généralités. Les binyanîm/F3
+    "3.011.R Sens compare paal piel hifil": {
+        "Position": "3",
+        "nomAAfficher": "Sens compar\u00e9 des binyan\u00eem pa'al, pi'\u00e9l et hi'fil",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.011.R",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 3 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.0 - Généralités. Les binyanîm/F4
+    "3.020 Bases vocaliques des binyanim": {
+        "Position": "4",
+        "nomAAfficher": "\u25baLes 3 bases vocaliques des 7 binyan\u00eem",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.020",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "2 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.0 - Généralités. Les binyanîm/F5
+    "3.030 Les pronoms personnels": {
+        "Position": "5",
+        "nomAAfficher": "\u25baLes pronoms personnels de divers types",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.030",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "1 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/D1
+    "3.10 La conjugaison theorique": {
+        "Position": "1",
+        "nomAAfficher": "3.10 La conjugaison th\u00e9orique de base",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.10",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/D2
+    "3.11 La conjugaison par binyan": {
+        "Position": "2",
+        "nomAAfficher": "3.11 La conjugaison th\u00e9orique pour chaque binyan",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.11",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/D3
+    "3.12 Verbe Shalem simplifie": {
+        "Position": "3",
+        "nomAAfficher": "3.12 Le verbe shal\u00e9m. Grilles-paradigmes simplifi\u00e9es",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.12",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/D4
+    "3.13 Verbe Shalem detaille": {
+        "Position": "4",
+        "nomAAfficher": "3.13 Le verbe shal\u00e9m. Grilles-paradigmes d\u00e9taill\u00e9es",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.13",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/D5
+    "3.14 Verbe Shalem avec suffixes personnels": {
+        "Position": "5",
+        "nomAAfficher": "3.14 Le verbe shal\u00e9m avec suffixes pronominaux",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.14",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/D6
+    "3.15 Verbe quasi Shalem": {
+        "Position": "6",
+        "nomAAfficher": "3.15 Le verbe quasi-shal\u00e9m (avec Nun ou Taw final)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.15",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.10 La conjugaison théorique de base/F1
+    "3.100 conjugaison theorique": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baLa conjugaison th\u00e9orique.",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.100",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.10 La conjugaison théorique de base/F2
+    "3.100.E.cj theorique.grille vide": {
+        "Position": "2",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Grille vierge (pour exercice)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.100.E",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "pour exercice",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.10 La conjugaison théorique de base/F3
+    "3.101 bis cj theorique.Etape 1": {
+        "Position": "3"
+        "nomAAfficher": "La conjugaison th\u00e9orique : son fonctionnement, \u00e9tape 1",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.101 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.10 La conjugaison théorique de base/F4
+    "3.102 bis cj theorique.Etape 2": {
+        "Position": "4",
+        "nomAAfficher": "La conjugaison th\u00e9orique : son fonctionnement, \u00e9tape 2",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.102 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.10 La conjugaison théorique de base/F5
+    "3.103 bis cj theorique.Etape 3": {
+        "Position": "5",
+        "nomAAfficher": "La conjugaison th\u00e9orique : son fonctionnement, \u00e9tape 3",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.103 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F1
+    "3.110.Ra.Repertoire des vb shalem": {
+        "Position": "1",
+        "nomAAfficher": "R\u00e9pertoire des verbes shal\u00e9m (ou quasi-shal\u00e9m, cf. 3.15)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.110.Ra",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 5 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F2
+    "3.110.Rb.Repertoire des vb qualificatifs": {
+        "Position": "2",
+        "nomAAfficher": "R\u00e9pertoire des verbes qualificatifs (= \"statifs\") ou suppos\u00e9s tels",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.110.Rb",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 16 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F3
+    "3.111.a vb shalem Paal Ia type qatal": {
+        "Position": "3",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Pa'al I a : Type \u05e7\u05b8\u05d8\u05b7\u05dc (\"actif\")",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.111.a",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F4
+    "3.111.b vb shalem Paal Ib type kaved": {
+        "Position": "4",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Pa'al I b : Type \ufb3b\u05b8\u05d1\u05b5\u05d3 (\"qualificatif\")",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.111.b",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F5
+    "3.111.c vb shalem Paal Ic type qaton": {
+        "Position": "5",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Pa'al I c : Type \u05e7\u05b8\u05d8\u05b9\u05df (\"qualificatif\")",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.111.c",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F6
+    "3.111 bis cj theorique Paal Ia": {
+        "Position": "6",
+        "nomAAfficher": "La conjugaison th\u00e9orique au binyan Pa'al Type I a (racine non pr\u00e9cis\u00e9e)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.111 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F7
+    "3.112 bis cj virtuelle du Passif du Qal": {
+        "Position": "7",
+        "nomAAfficher": "Une \"conjugaison-fant\u00f4me\" : le suppos\u00e9 ex-passif du Qal",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.112 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F8
+    "3.112.R Repertoire des formes Passif du qal": {
+        "Position": "8",
+        "nomAAfficher": "R\u00e9pertoire des formes de l'ex-passif du Qal (ou suppos\u00e9es telles)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.112.R",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 7 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F9
+    "3.113 vb shalem Nifal II": {
+        "Position": "9",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Nif'al (II)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.113",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F10
+    "3.113 bis cj theorique Nifal": {
+        "Position": "10",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Binyan Nif'al (II)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.113 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F11
+    "3.114 vb shalem Piel III": {
+        "Position": "11",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Pi'\u00e9l (III)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.114",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F12
+    "3.114 bis cj theorique Piel": {
+        "Position": "12",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Binyan Pi'\u00e9l (III)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.114 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F13
+    "3.115 vb shalem Pual IV": {
+        "Position": "13",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Pu'al (IV)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.115",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F14
+    "3.115 bis cj theorique Pual": {
+        "Position": "14",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Binyan Pu'al (IV)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.115 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F15
+    "3.116.A vb shalem Hitpael VII": {
+        "Position": "15",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Hitpa'\u00e9l (VII)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.116.A",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F16
+    "3.116.B vb shalem Hitpael avec dentale": {
+        "Position": "16",
+        "nomAAfficher": "\u25baLe Hitpa'\u00e9l des verbes \u00e0 1\u00e8re radicale dentale : le probl\u00e8me",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.116.B",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F17
+    "3.116.C variantes du hitpael avec dentale": {
+        "Position": "17",
+        "nomAAfficher": "Les variantes du Hitpa'\u00e9l (VII) avec 1\u00e8re radicale dentale. Grille simplifi\u00e9e",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.116.C",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F18
+    "3.116 bis cj theorique Hitpael": {
+        "Position": "18",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Binyan Hitpa'\u00e9l (VII)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.116 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F19
+    "3.117 vb shalem Hifil V": {
+        "Position": "19",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Hif'il (V)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.117",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F20
+    "3.117 bis cj theorique Hifil": {
+        "Position": "20",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Binyan Hif'il (V)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.117 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F21
+    "3.118 vb shalem Hofal VI": {
+        "Position": "21",
+        "nomAAfficher": "\u25baLa conjugaison shal\u00e9m. Binyan Hof'al (VI)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.118",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.11 La conjugaison théorique pour chaque binyan/F22
+    "3.118 bis cj theorique Hofal": {
+        "Position": "22",
+        "nomAAfficher": "La conjugaison th\u00e9orique. Binyan Hof'al (VI)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.118 bis",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.12 Le verbe shalém. Grilles-paradigmes simplifiées/F1
+    "3.120 vb shalem cj 7 binyanim.simplifie": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baverbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau simplifi\u00e9 des 7 binyan\u00eem",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.120",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.12 Le verbe shalém. Grilles-paradigmes simplifiées/F2
+    "3.121 vb shalem cj 7 bin.simplifie.avec lignes": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau simplifi\u00e9 (avec lignes apparentes)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.121",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.12 Le verbe shalém. Grilles-paradigmes simplifiées/F3
+    "3.121.E vb sh. 7 bin.grille vierge.avec lignes": {
+        "Position": "3",
+        "nomAAfficher": "verbe shal\u00e9m. Grille vierge des 7 binyan\u00eem. Pour exercice (avec lignes)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.121.E",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "pour exercice",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.12 Le verbe shalém. Grilles-paradigmes simplifiées/F4
+    "3.122 vb shalem cj 7 bin.avec begad-kefat": {
+        "Position": "4",
+        "nomAAfficher": "verbe shal\u00e9m (les 7 binyan\u00eem) avec BeGaD-KeFaT (\ufb31\u05d2\u05bc\u05d3\u05bc\ufb3b\ufb44\u05ea\u05bc) Mod\u00e8le \ufb3b\u05b8\u05ea\u05b7\u05d1",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.122",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.12 Le verbe shalém. Grilles-paradigmes simplifiées/F5
+    "3.123 vb sh. quadrilittere type Targem.complet": {
+        "Position": "5",
+        "nomAAfficher": "verbe shal\u00e9m quadrilitt\u00e8re. Grille compl\u00e8te Mod\u00e8le \u05ea\u05bc\u05b4\u05e8\u05b0\u05d2\u05bc\u05b5\u05dd",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.123",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.13 Le verbe shalém. Grilles-paradigmes détaillées/F1
+    "3.130+ vb shalem 7 bin.detaille": {
+        "Position": "1",
+        "nomAAfficher": "verbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau d\u00e9taill\u00e9 des 7 binyan\u00eem (I \u00e0 VII)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.130+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.13 Le verbe shalém. Grilles-paradigmes détaillées/F2
+    "3.131.ab+ vb shalem cj detaille Paal Iabc": {
+        "Position": "2",
+        "nomAAfficher": "verbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau d\u00e9taill\u00e9 binyan Pa'al (actif et qualificatif)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.131.ab+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.13 Le verbe shalém. Grilles-paradigmes détaillées/F3
+    "3.132+ vb shalem cj detaille bin. qallim": {
+        "Position": "3",
+        "nomAAfficher": "verbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau d\u00e9taill\u00e9 binyan\u00eem Qall\u00eem (I et Ibis, II)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.132+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.13 Le verbe shalém. Grilles-paradigmes détaillées/F4
+    "3.133+ vb shalem cj detaille bin. kevedim": {
+        "Position": "4",
+        "nomAAfficher": "verbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau d\u00e9taill\u00e9 binyan\u00eem Kev\u00e9d\u00eem (III, IV, VII)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.133+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.13 Le verbe shalém. Grilles-paradigmes détaillées/F5
+    "3.134+ vb shalem cj detaille bin. goremim": {
+        "Position": "5",
+        "nomAAfficher": "verbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc. Tableau d\u00e9taill\u00e9 binyan\u00eem Gorem\u00eem (V, VI)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.134+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.14 Le verbe shalém avec suffixes pronominaux/F1
+    "3.141.S vb shalem cj paal avec suffixes": {
+        "Position": "1",
+        "nomAAfficher": "\u25baverbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc avec suffixes pronominaux. Binyan Pa'al (I)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.141.S",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.14 Le verbe shalém avec suffixes pronominaux/F2
+    "3.142.S vb shalem cj piel avec suffixes": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc avec suffixes pronominaux. Binyan Pi'\u00e9l (III)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.142.S",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.14 Le verbe shalém avec suffixes pronominaux/F3
+    "3.143.S vb shalem cj hifil avec suffixes": {
+        "Position": "3",
+        "nomAAfficher": "\u25baverbe shal\u00e9m type \u05e7\u05b8\u05d8\u05b7\u05dc avec suffixes pronominaux. Binyan Hif'il (V)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.143.S",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.15 Le verbe quasi-shalém (avec Nun ou Taw final)/F1
+    "3.151 vb quasi shalem Lamed nun": {
+        "Position": "1",
+        "nomAAfficher": "\u25baverbe quasi-shal\u00e9m, mais avec Nun final (parfois assimil\u00e9)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.151",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.1 - La conjugaison théorique et le verbe shalém/3.15 Le verbe quasi-shalém (avec Nun ou Taw final)/F
+    "3.152 vb quasi shalem Lamed taw": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe quasi-shal\u00e9m, mais avec Taw final (parfois assimil\u00e9)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.152",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/D1
+    "3.21 Verbes 1ere Gutturale": {
+        "Position": "1",
+        "nomAAfficher": "3.21 Le verbe avec 1\u00e8re radicale Gutturale (ou Resh) = \u05e4\u05f4\u05d2\u05bc\u05f3 (ou \u05e4\u05f4\u05e8)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.21",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/D2
+    "3.22 Verbes 2eme Gutturale": {
+        "Position": "2",
+        "nomAAfficher": "3.22 Le verbe avec 2\u00e8me radicale Gutturale (ou Resh) = \u05e2\u05f4\u05d2\u05bc\u05f3 (ou \u05e2\u05f4\u05e8)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.22",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/D3
+    "3.23 Verbes 3eme Gutturale": {
+        "Position": "3",
+        "nomAAfficher": "3.23 Le verbe avec 3\u00e8me radicale Gutturale (ou Resh) = \u05dc\u05f4\u05d2\u05bc\u05f3 (ou \u05dc\u05f4\u05e8)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.23",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F1
+    "3.210.ab vb 1ere gutt. variantes Paal": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (ou \u05e4\u05f4\u05e8). Les 7 (\u00e0 9) variantes du pa'al",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.210.ab",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F2
+    "3.210.R0 Repertoire simplifie des vb 1ere gutt dont alef": {
+        "Position": "2",
+        "nomAAfficher": "\u25baR\u00e9pertoire simplifi\u00e9 des verbes \u05e4\u05f4\u05d2\u05bc\u05f3 (y compris \u05e4\u05f4\u05d0 quiescent)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.210.R0",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "R\u00e9pertoire 14 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F3
+    "3.210.R1+ Repertoire detaille de tous les vb Pe alef": {
+        "Position": "3",
+        "nomAAfficher": "R\u00e9pertoire d\u00e9taill\u00e9 des verbes \u05e4\u05f4\u05d0 (guttural ou quiescent)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.210.R1+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 14 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F4
+    "3.210.R2+ Repertoire detaille des vb 1ere gutt sauf alef": {
+        "Position": "4",
+        "nomAAfficher": "R\u00e9pertoire d\u00e9taill\u00e9 des verbes \u05e4\u05f4\u05d2\u05bc\u05f3 (sauf \u05e4\u05f4\u05d0)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.210.R2+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 21 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F5
+    "3.211.a1 vb 1ere gutt. type Avad": {
+        "Position": "5",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05e2) Mod\u00e8le \u05e2\u05b8\u05d1\u05b7\u05d3 [voyelles A-O avec hataf]",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.211.a1",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F6
+    "3.211.a1+ vb 1ere gutt. type Avad detaille": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05e2) Mod\u00e8le \u05e2\u05b8\u05d1\u05b7\u05d3. Grille d\u00e9taill\u00e9e",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.211.a1+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F7
+    "3.211.a2 vb 1ere gutt. type Hamal": {
+        "Position": "7",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d7) Mod\u00e8le \u05d7\u05b8\u05de\u05b7\u05dc [voyelles A-O avec shewa]",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.211.a2",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F8
+    "3.211.a2+ vb 1ere gutt. type Hamal detaille": {
+        "Position": "8",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d7) Mod\u00e8le \u05d7\u05b8\u05de\u05b7\u05dc. Grille d\u00e9taill\u00e9e",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.211.a2+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F9
+    "3.212.a1 vb 1ere gutt. type arav": {
+        "Position": "9",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d0) Mod\u00e8le \u05d0\u05b8\u05e8\u05b7\u05d1 [voyelles \u00c8-O avec hataf]",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.212.a1",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F10
+    "3.212.a2 vb 1ere gutt. type hadaf": {
+        "Position": "10",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d4) Mod\u00e8le \u05d4\u05b8\u05d3\u05b7\u05e3 [voyelles \u00c8-O avec shewa]",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.212.a2",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F11
+    "3.213.b1 vb 1ere gutt. type Hazeq": {
+        "Position": "11",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d7) Mod\u00e8le \u05d7\u05b8\u05d6\u05b5\u05e7 [voyelles \u00c8-A avec hataf]",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.213.b1",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F12
+    "3.213.b2 vb 1ere gutt. type Haser": {
+        "Position": "12",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d7) Mod\u00e8le \u05d7\u05b8\u05e1\u05b5\u05e8 [voyelles \u00c8-A avec shewa]",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.213.b2",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F13
+    "3.213.b3 vb 1ere gutt. type amets": {
+        "Position": "13",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 (avec Gutturale \u05d0) Mod\u00e8le \u05d0\u05b8\u05de\u05b5\u05e5 [voyelles \u00c8-A avec hataf]",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.213.b3",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F14
+    "3.214.ab vb 1ere Resh. type radaf rakev": {
+        "Position": "14",
+        "nomAAfficher": "\u25baverbe &#x05E4;&#x05F4;&#x05E8; (actif et qualificatif) Mod\u00e8les \u05e8\u05b8\u05d3\u05b7\u05e3 / \u05e8\u05b8\u05db\u05b5\u05d1",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.214.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.21 Le verbe avec 1ère radicale Gutturale/F15
+    "3.214.R1 Repertoire des vb avec 1ere resh": {
+        "Position": "15",
+        "nomAAfficher": "R\u00e9pertoire d\u00e9taill\u00e9 des verbes \u05e4\u05f4\u05e8",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.214.R1",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 5 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.22 Le verbe avec 2ème radicale Gutturale/F1
+    "3.220.Rc Repertoire simplifie des vb 2eme gutt": {
+        "Position": "1",
+        "nomAAfficher": "R\u00e9pertoire simplifi\u00e9 des verbes \u05e2\u05f4\u05d2\u05bc\u05f3 (ou \u05e2\u05f4\u05e8)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.220.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 13 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.22 Le verbe avec 2ème radicale Gutturale/Fé
+    "3.221.ab vb 2eme gutt. allongmt type gaal": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05d2\u05bc\u05b8\u05d0\u05b7\u05dc",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.221.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.22 Le verbe avec 2ème radicale Gutturale/F3
+    "3.222.ab vb 2eme gutt. redoublmt virtuel type raHam": {
+        "Position": "3",
+        "nomAAfficher": "\u25baverbe \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05e8\u05b8\u05d7\u05b7\u05dd",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.222.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.22 Le verbe avec 2ème radicale Gutturale/F4
+    "3.223.ab vb 2eme resh allongmt type barakh": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05e2\u05f4\u05e8 Mod\u00e8le \ufb31\u05b8\u05e8\u05b7\u05da\u05b0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.223.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.23 Le verbe avec 3ème radicale Gutturale/F1
+    "3.230.Rc Repertoire des vb 3eme gutt": {
+        "Position": "1",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05dc\u05f4\u05d2\u05bc\u05f3 (sauf \u05d0 ou \u05d4 quiescents)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.230.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 10 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.2 - Le verbe avec gutturale/3.23 Le verbe avec 3ème radicale Gutturale/F2
+    "3.231.ab vb 3eme gutt. type balA": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe \u05dc\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \ufb31\u05b8\u05dc\u05b7\u05e2",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.231.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.3 - Le verbe avec un Alef quiescent/F1
+    "3.311 vb Pe alef quiesc. type akhal": {
+        "Position": "1",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d0 quiescent Mod\u00e8le \u05d0\u05b8\u05db\u05b7\u05dc (grille simplifi\u00e9e)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.311",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.3 - Le verbe avec un Alef quiescent/F2
+    "3.311+ vb Pe alef quiesc. type akhal detaille": {
+        "Position": "2",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d0 quiescent Mod\u00e8le \u05d0\u05b8\u05db\u05b7\u05dc (grille d\u00e9taill\u00e9e)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.311+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.3 - Le verbe avec un Alef quiescent/F3
+    "3.330.Rc Repertoire des vb Lamed Alef": {
+        "Position": "3",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05dc\u05f4\u05d0 quiescent",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.330.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 7 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.3 - Le verbe avec un Alef quiescent/F4
+    "3.331.ab vb Lamed alef.type matsa Tame": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05dc\u05f4\u05d0 quiescent Mod\u00e8le \u05de\u05b8\u05e6\u05b8\u05d0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.331.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.4 - Le verbe avec un Nun/F1
+    "3.410 Les types Pe nun.Resume": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baLes divers types de verbes \u05e4\u05f4\u05df. Tableau r\u00e9capitulatif",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.410",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.4 - Le verbe avec un Nun/F2
+    "3.410.Rb Repertoire des vb Pe nun.n.bl": {
+        "Position": "2",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05e4\u05f4\u05df (noir et blanc)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.410.Rb",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 10 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.4 - Le verbe avec un Nun/F3
+    "3.410.Rc Repertoire des vb Pe nun.coul.detaille": {
+        "Position": "3",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05e4\u05f4\u05df (plus d\u00e9taill\u00e9 - couleur)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.410.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 11 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.4 - Le verbe avec un Nun/F4
+    "3.411 vb Pe nun.type nagash": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05df Mod\u00e8le \u05e0\u05b8\u05d2\u05b7\ufb2a = avec assimilation et aph\u00e9r\u00e8se",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.411",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.4 - Le verbe avec un Nun/F5
+    "3.412 vb Pe nun.type nafal": {
+        "Position": "5",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05df Mod\u00e8le \u05e0\u05b8\u05e4\u05b7\u05dc = avec assimilation mais sans aph\u00e9r\u00e8se",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.412",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.4 - Le verbe avec un Nun/F6
+    "3.413 vb Pe nun.type naHal": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05df Mod\u00e8le \u05e0\u05b8\u05d7\u05b7\u05dc = sans assimilation ni aph\u00e9r\u00e8se",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.413",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "= complexe 3.74.10",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/D1
+    "3.51 Verbes Pe Yod ou Waw": {
+        "Position": "1",
+        "nomAAfficher": "3.51 Le verbe avec 1\u00e8re radicale Yod ou Waw (= \u05e4\u05f4\u05d9 ou \u05e4\u05f4\u05d5)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.51",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/D2
+    "3.52 Verbes Ayin Yod ou Waw": {
+        "Position": "2",
+        "nomAAfficher": "3.52 Le verbe avec 2\u00e8me radicale Yod ou Waw (= \u05e2\u05d9 ou \u05e2\u05f4\u05d5)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.52",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/D3
+    "3.53 Verbes Lamed Yod ou Waw": {
+        "Position": "3",
+        "nomAAfficher": "3.53 Le verbe avec 3\u00e8me radicale Yod ou Waw = \u05dc\u05f4\u05d4 (quiescent) ",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.53",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F1
+    "3.510 Les divers types de Pe yod.Resume": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baLes divers types de verbes \u05e4\u05f4\u05d9 (tableau r\u00e9capitulatif)",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.510",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F2
+    "3.510.Rb Repertoire des vb Pe yod.n.bl": {
+        "Position": "2",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05e4\u05f4\u05d9 (noir et blanc)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.510.Rb",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 12 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F3
+    "3.510.Rc Repertoire des vb Pe yod.coul": {
+        "Position": "3",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05e4\u05f4\u05d9 (idem, couleur)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.510.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 12 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F4
+    "3.511 vb Pe yod waw 1F type yashav simplifie": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le \u05d9\u05b8\ufb2a\u05b7\u05d1 simplifi\u00e9",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.511",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F5
+    "3.511+ vb Pe yod waw 1F type yashav detaille": {
+        "Position": "5",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le \u05d9\u05b8\ufb2a\u05b7\u05d1 d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.511+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F6
+    "3.512 vb Pe yod waw 1Fg2 type yaHad simplifie": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le \u05d9\u05b8\u05d7\u05b7\u05d3 simplifi\u00e9 (= avec \u05e2\u05f4\u05d2\u05bc\u05f3 cf. verbes complexes)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.512",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.75.10.a",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F7
+    "3.513 vb ee yod waw 1Fg3 type yadA simplifie": {
+        "Position": "7",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le \u05d9\u05b8\u05d3\u05b7\u05e2 simplifi\u00e9 (= avec \u05e2\u05f4\u05d2\u05bc\u05f3 cf. verbes complexes)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.513",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "cf. 3.75.01.a et b",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F8
+    "3.514.abc vb Pe yod waw 1N modele simplifie": {
+        "Position": "8",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8les communs (\u05d9\u05b8\u05e1\u05b7\u05d3 + \u05d9\u05b8\u05d1\u05b5\ufb2a + \u05d9\u05b8\u05e7\u05b9\ufb2a)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.514.abc",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F9
+    "3.514.A vb Pe yod waw 1N type yasad simplifie": {
+        "Position": "9",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le distinct \u05d9\u05b8\u05e1\u05b7\u05d3 (actif)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.514.A",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F10
+    "3.514.B vb Pe yod waw 1N type yavesh simplifie": {
+        "Position": "10",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le distinct \u05d9\u05b8\u05d1\u05b5\ufb2a (qualificatif)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.514.B",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.75.01.b",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F11
+    "3.514.C vb Pe yod waw 1N type yaqosh simplifie": {
+        "Position": "11",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 [ancien \u05e4\u05f4\u05d5] Mod\u00e8le distinct \u05d9\u05b8\u05e7\u05b9\ufb2a (qualificatif)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.514.C",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F12
+    "3.515 vb Pe yod yod 2 type yaneq simplifie": {
+        "Position": "12",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 [\u00e9tymologique] Mod\u00e8le \u05d9\u05b8\u05e0\u05b5\u05e7 simplifi\u00e9",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.515",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F13
+    "3.515+ vb Pe yod yod 2 type yaneq detaille": {
+        "Position": "13",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 [\u00e9tymologique] Mod\u00e8le \u05d9\u05b8\u05e0\u05b5\u05e7 d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.515+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F14
+    "3.516+ vb Pe yod tsadeh type 3 yatsav": {
+        "Position": "14",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9\u05e6 Mod\u00e8le \u05d9\u05b8\u05e6\u05b7\u05e7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.516+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.51 Le verbe avec 1ère radicale Yod ou Waw/F15
+    "3.516+Rc Repertoire Pe yod tsadeh.couleur": {
+        "Position": "15",
+        "nomAAfficher": "R\u00e9pertoire des formes des verbes \u05e4\u05f4\u05d9\u05e6 (couleur)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.516+Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 4 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F11
+    "3.520.ab vb Ayin waw et yod.variantes Paal": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baLes divers types de verbes \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Tableau r\u00e9capitulatif",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.520.ab",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F2
+    "3.520.Rb Repertoire des vb Ayin waw.n.bl": {
+        "Position": "2",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5 (noir et blanc)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.520.Rb",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 19 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F3
+    "3.520.Rc Repertoire des vb Ayin waw.coul": {
+        "Position": "3",
+        "nomAAfficher": "R\u00e9pertoire des verbes verbes \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5 (couleur)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.520.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 19 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F4
+    "3.521 vb Ayin waw et yod simplifie": {
+        "Position": "4",
+        "nomAAfficher": "\u25ba\u25baverbe \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Grille simplifi\u00e9e des 3 types : &#x05E7;&#xFB35;&#x05DD; ,&#xFB2B;&#x05B4;&#x05D9;&#x05DD; et \ufb31\ufb4b\ufb2a",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.521",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F5
+    "3.522+ vb Ayin waw type qum detaille.bin.qallim": {
+        "Position": "5",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Grille d\u00e9taill\u00e9e Mod\u00e8le \u05e7\ufb35\u05dd",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.522+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F6
+    "3.523+ vb Ayin yod type sim detaille.bin.qallim": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Grille d\u00e9taill\u00e9e Mod\u00e8le \ufb2b\u05b4\u05d9\u05dd",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.523+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F7
+    "3.524+ vb Ayin waw type bosh detaille.bin.qallim": {
+        "Position": "7",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Grille d\u00e9taill\u00e9e Mod\u00e8le \ufb31\ufb4b\ufb2a",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.524+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F8
+    "3.525+ vb Ayin waw et yod detaille.bin.kevedim": {
+        "Position": "8",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Grille d\u00e9taill\u00e9e des binyan\u00eem kev\u00e9d\u00eem (III, IV, VII)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.525+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.52 Le verbe avec 2ème radicale Yod ou Waw/F9
+    "3.526+ vb Ayin waw et yod detaille.bin.goremim": {
+        "Position": "9",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d9 et \u05e2\u05f4\u05d5. Grille d\u00e9taill\u00e9e des binyan\u00eem gorem\u00eem (V, VI)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.526+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F1
+    "3.530 vb Lamed He simplifie": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baverbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4 grille simplifi\u00e9e",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.530",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F2
+    "3.530.Rc Repertoire des vb lamed He": {
+        "Position": "2",
+        "nomAAfficher": "R\u00e9pertoire des verbes \u05dc\u05f4\u05d4 quiescent (ancien Yod ou Waw)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.530.Rc",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 16 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F3
+    "3.531+ vb Lamed He detaille.bin.qallim": {
+        "Position": "3",
+        "nomAAfficher": "verbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4. Grille d\u00e9taill\u00e9e des binyan\u00eem qall\u00eem (I, II)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.531+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F4
+    "3.532+ vb Lamed He detaille.bin.kevedim": {
+        "Position": "4",
+        "nomAAfficher": "verbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4. Grille d\u00e9taill\u00e9e des binyan\u00eem kev\u00e9d\u00eem (III, IV, VII)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.532+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F5
+    "3.533+ vb Lamed He detaille.bin.goremim": {
+        "Position": "5",
+        "nomAAfficher": "verbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4. Grille d\u00e9taill\u00e9e des binyan\u00eem gorem\u00eem (V, VI)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.533+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F6
+    "3.534.S vb Lamed He. Paal avec suffixes": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4 avec Suffixes. Grille du binyan Pa'al",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.534.S",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F7
+    "3.535.S vb Lamed He. Piel avec suffixes": {
+        "Position": "7",
+        "nomAAfficher": "verbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4 avec Suffixes. Grille du binyan Pi'\u00e9l",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.535.S",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.5 - Le verbe avec un Yod ou un Waw/3.53 Le verbe avec 3ème radicale Yod ou Waw/F8
+    "3.536.S vb Lamed He. Hifil avec suffixes": {
+        "Position": "8",
+        "nomAAfficher": "verbe \u05dc\u05f4\u05d4 Mod\u00e8le \u05d2\u05bc\u05b8\u05dc\u05b8\u05d4 avec Suffixes. Grille du binyan Hif'il",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.536.s",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.6 - Le verbe géminé/F1
+    "3.610.ab. vb Ayin-Ayin.variantes pa'al": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baverbe \u05e2\u05f4\u05e2. Les 5 (\u00e0 8) variantes du binyan Pa'al (I)",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "3.610.ab",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.6 - Le verbe géminé/F2
+    "3.610.R+ Repertoire des vb Ayin Ayin": {
+        "Position": "2",
+        "nomAAfficher": "R\u00e9pertoire d\u00e9taill\u00e9 des verbes \u05e2\u05f4\u05e2",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.610.R+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "R\u00e9pertoire 15 p.",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.6 - Le verbe géminé/F3
+    "3.611.ab vb Ayin Ayin savav-qalal simplifie": {
+        "Position": "3",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05e2. Mod\u00e8les \u05e1\u05b8\u05d1\u05b7\u05d1 (actif) et \u05e7\u05b8\u05dc\u05b7\u05dc (qualificatif). Grille simplifi\u00e9e",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.611.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/D1
+    "3.70 Verbes avec 1ere Shalem": {
+        "Position": "1",
+        "nomAAfficher": "3.70 Les verbes avec 1\u00e8re radicale shal\u00e9m",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.70",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/D2
+    "3.71 Verbes avec 1ere Gutturale": {
+        "Position": "2",
+        "nomAAfficher": "3.71 Les verbes avec 1\u00e8re radicale Gutturale (\u05e4\u05f4\u05d2\u05bc\u05f3)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.71",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/D3
+    "3.72 Verbes avec 1ere Resh": {
+        "Position": "3",
+        "nomAAfficher": "3.72 Les verbes avec 1\u00e8re radicale Resh (\u05e4\u05f4\u05e8)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.72",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/D4
+    "3.73 Verbes avec 1ere Alef semi quiescent": {
+        "Position": "4",
+        "nomAAfficher": "3.73 Les verbes avec 1\u00e8re radicale Alef (\u05e4\u05f4\u05d0) quiescent (ou semi-quiescent)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.73",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/D5
+    "3.74 Verbes avec 1ere Nun": {
+        "Position": "5",
+        "nomAAfficher": "3.74 Les verbes avec 1\u00e8re radicale Nun (\u05e4\u05f4\u05df)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.74",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/D6
+    "3.75 Verbes avec 1ere Yod": {
+        "Position": "6",
+        "nomAAfficher": "3.75 Les verbes avec 1\u00e8re radicale Yod (\u05e4\u05f4\u05d9)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "3.75",
+        "formatCodeAAfficher": 1,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F1
+    "3.70.13 vb Ayin gutt et Lamed alef type maHa": {
+        "Position": "1",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d0 quiescent : le seul verbe \u05de\u05b8\u05d7\u05b8\u05d0",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.13",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F2
+    "3.70.151 vb Ayin gutt et Lamed He type taAh": {
+        "Position": "2",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec 2\u00e8me Gutturale \u05e2) Mod\u00e8le \u05ea\u05bc\u05b8\u05e2\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.151",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F3
+    "3.70.152 vb Ayin gutt et Lamed He type laah": {
+        "Position": "3",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec 2\u00e8me Gutturale \u05d0) Mod\u00e8le \u05dc\u05b8\u05d0\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.152",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F4
+    "3.70.153 vb Ayin gutt et Lamed He type kahah": {
+        "Position": "4",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec 2\u00e8me Gutturale \u05d4) Mod\u00e8le \ufb3b\u05b8\u05d4\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.153",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F5
+    "3.70.154 vb Ayin gutt et Lamed He type maHah": {
+        "Position": "5",
+        "nomAAfficher": "verbe \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec 2\u00e8me Gutturale \u05d7) Mod\u00e8le \u05de\u05b8\u05d7\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.154",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F6
+    "3.70.21 vb Ayin resh et Lamed gutt type qarA": {
+        "Position": "6",
+        "nomAAfficher": "\u25baverbe \u05e2\u05f4\u05e8 et \u05dc\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05e7\u05b8\u05e8\u05b7\u05e2",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.70.21",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F7
+    "3.70.23 vb Ayin resh et Lamed alef type qara": {
+        "Position": "7",
+        "nomAAfficher": "\u25baverbe \u05e2\u05f4\u05e8 et \u05dc\u05f4\u05d0 (quiescent) Mod\u00e8le \u05e7\u05b8\u05e8\u05b8\u05d0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.70.23",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F8
+    "3.70.25 vb Ayin resh et Lamed He type zarah": {
+        "Position": "8",
+        "nomAAfficher": "\u25baverbe \u05e2\u05f4\u05e8 et \u05dc\u05f4\u05d4 (quiescent) Mod\u00e8le \u05e7\u05b8\u05e8\u05b8\u05d4",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.70.25",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F9
+    "3.70.51 vb Ayin waw et Lamed gutt type siaH": {
+        "Position": "9",
+        "nomAAfficher": "\u25baverbes \u05e2\u05f4\u05d5 ou &#x05E2;&#x05F4;&#x05D9; et \u05dc\u05f4\u05d2\u05bc\u05f3 Mod\u00e8les \ufb44\ufb35\u05d7\u05b7 et \ufb2b\u05b4\u05d9\u05d7\u05b7",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.70.51",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F10
+    "3.70.53 vb Ayin waw et Lamed alef": {
+        "Position": "10",
+        "nomAAfficher": "verbes \u05e2\u05f4\u05d5 ou &#x05E2;&#x05F4;&#x05D9; et \u05dc\u05f4\u05d0 = les seuls verbes \u05e0\ufb35\u05d0 et \u05e7\u05b4\u05d9\u05d0",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.53",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F11
+    "3.70.61.ab vb Ayin Ayin gutturale": {
+        "Position": "11",
+        "nomAAfficher": "verbes \u05e2\u05f4\u05e2 (avec \u05e2 = \u05d2\u05bc\u05f3) Mod\u00e8les \u05dc\u05b8\u05e2\u05b7\u05e2 et \ufb2a\u05b8\u05d7\u05b7\u05d7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.61.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.70 Les verbes avec 1ère radicale shalém/F12
+    "3.70.62.ab vb Ayin Ayin resh type sarar tsarar": {
+        "Position": "12",
+        "nomAAfficher": "verbes \u05e2\u05f4\u05e2 (avec \u05e2 = \u05e8) Mod\u00e8les \ufb44\u05b8\u05e8\u05b7\u05e8 et \u05e6\u05b8\u05e8\u05b7\u05e8",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.70.62.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F1
+    "3.71.01 vb Pe gut et Lamed gut.type anaH": {
+        "Position": "1",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05d0\u05b8\u05e0\u05b7\u05d7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.01",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F2
+    "3.71.03 vb Pe gut et Lamed alef.type HaTa": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d0 Mod\u00e8les \u05d7\u05b8\u05d8\u05b8\u05d0 et \u05d7\u05b8\u05d1\u05b8\u05d0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.71.03",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F3
+    "3.71.050 vb Pe gut et Lamed He.variantes paal": {
+        "Position": "3",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4. Les 4 (ou 5) variantes du binyan Pa'al (I)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.71.050",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F4
+    "3.71.051 vb Pe gut et Lamed He.type Asah": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 Mod\u00e8le \u05e2\u05b8\ufb2b\u05b8\u05d4 simplifi\u00e9",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.71.051",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F5
+    "3.71.052+ vb Pe gut et Lamed He.Asah bin qallim": {
+        "Position": "5",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 Mod\u00e8le \u05e2\u05b8\ufb2b\u05b8\u05d4 d\u00e9taill\u00e9. (Binyan\u00eem qall\u00eem)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.052+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F6
+    "3.71.053+ vb Pe gut et Lamed He.Asah bin kev.et.gor": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 Mod\u00e8le \u05e2\u05b8\ufb2b\u05b8\u05d4 d\u00e9taill\u00e9. (Binyan\u00eem kev\u00e9d\u00eem et gorem\u00eem)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.053+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F7
+    "3.71.054 vb Pe gut et Lamed He.type Hatah": {
+        "Position": "7",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec voyelle A) et shewa : les seuls verbes &#x05E2;&#x05B8;&#x05D8;&#x05B8;&#x05D4; ,&#x05E2;&#x05B8;&#x05D3;&#x05B8;&#x05D4; et \u05d7\u05b8\u05ea\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.054",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F8
+    "3.71.055 vb Pe gut et Lamed He.type hamah": {
+        "Position": "8",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec voyelle \u00c8) et hataf Mod\u00e8le \u05d4\u05b8\u05de\u05b8\u05d4 d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.055",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F9
+    "3.71.056 vb Pe gut et Lamed He.type hagah": {
+        "Position": "9",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 (avec voyelle \u00c8) et shewa Mod\u00e8le \u05d4\u05b8\u05d2\u05b8\u05d4 d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.056",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F10
+    "3.71.251 vb Pe gut. 2 resh. 3 He.'arah": {
+        "Position": "10",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05d2\u05bc\u05f3 (avec &#x05D4; = &#x05D2;&#x05BC;&#x05F3; ou \u05e2) et \u05e2\u05f4\u05e8 et \u05dc\u05f4\u05d4 = \u05d4\u05b8\u05e8\u05b8\u05d4 et \u05e2\u05b8\u05e8\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.251",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F11
+    "3.71.255 vb Pe gut. 2 resh. 3 He.Harah": {
+        "Position": "11",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05d2\u05bc\u05f3 (avec &#x05D0; = &#x05D2;&#x05BC;&#x05F3; ou \u05d7) et \u05e2\u05f4\u05e8 et \u05dc\u05f4\u05d4 = \u05d0\u05b8\u05e8\u05b8\u05d4 et \u05d7\u05b8\u05e8\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.255",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F12
+    "3.71.50 vb Pe gut et Ayin waw.type Od": {
+        "Position": "12",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05e2\u05f4\u05d5 Mod\u00e8le \u05e2\ufb35\u05d3",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.50",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F13
+    "3.71.60 vb Pe gut et Ayin Ayin.type Halal": {
+        "Position": "13",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05e2\u05f4\u05e2 Mod\u00e8le \u05d7\u05b8\u05dc\u05b7\u05dc",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.60",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.71 Les verbes avec 1ère radicale Gutturale/F14
+    "3.71.62.ab vb Pe gut et Ayin Ayin resh": {
+        "Position": "14",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05d2\u05bc\u05f3 et \u05e2\u05f4\u05e2 (avec \u05e2 = \u05e8) : les seuls verbes \u05d0\u05b8\u05e8\u05b7\u05e8 ,\u05d7\u05b8\u05e8\u05b7\u05e8 et \u05e2\u05b8\u05e8\u05b7\u05e8",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.71.62.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F1
+    "3.72.01 vb Pe resh et Lamed gutt.type ratsaH": {
+        "Position": "1",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05dc\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05e8\u05b8\u05e6\u05b7\u05d7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.01",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F2
+    "3.72.03 vb Pe resh et Lamed alef.type rafa": {
+        "Position": "2",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05dc\u05f4\u05d0 : le seul verbe \u05e8\u05b8\u05e4\u05b8\u05d0",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.03",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F3
+    "3.72.05.ab vb Pe resh et Lamed He.type ratsah": {
+        "Position": "3",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05dc\u05f4\u05d4 Mod\u00e8les : \u05e8\u05b8\u05e6\u05b8\u05d4 et \u05e8\u05b8\u05e4\u05b6\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.05.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F4
+    "3.72.10.ab vb Pe resh et Ayin gutt.type raHam": {
+        "Position": "4",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8les \u05e8\u05b8\u05d7\u05b7\u05e5 et \u05e8\u05b8\u05d7\u05b5\u05e7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.10.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F5
+    "3.72.150 vb raah.simplifie": {
+        "Position": "5",
+        "nomAAfficher": "\u25baverbes \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 : les 2 verbes \u05e8\u05b8\u05d0\u05b8\u05d4 et \u05e8\u05b8\u05e2\u05b8\u05d4 simplifi\u00e9 (aux 7 binyan\u00eem)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.72.150",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F6
+    "3.72.151+ vb raah.detaille.bin qallim": {
+        "Position": "6",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 : les 2 verbes \u05e8\u05b8\u05d0\u05b8\u05d4 et \u05e8\u05b8\u05e2\u05b8\u05d4 d\u00e9taill\u00e9 (binyan\u00eem I et II)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.151+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F7
+    "3.72.152+ vb raah.detaille.autres bin": {
+        "Position": "7",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 : les 2 verbes \u05e8\u05b8\u05d0\u05b8\u05d4 et \u05e8\u05b8\u05e2\u05b8\u05d4 d\u00e9taill\u00e9 (binyan\u00eem III \u00e0 VII)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.152+",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F8
+    "3.72.50 vb Pe gut et Ayin waw.type rum": {
+        "Position": "8",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05d5 Mod\u00e8les \u05e8\ufb35\u05dd et \u05e8\u05b4\u05d9\u05e7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.50",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.71.50",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F9
+    "3.72.51 vb Pe gut.Ayin waw.Lamed gut.type ruA'": {
+        "Position": "9",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05d5 et \u05dc\u05f4\u05d2\u05bc\u05f3 : les seuls verbes &#x05E8;&#xFB35;&#x05E2;&#x05B7;, &#x05E8;&#xFB35;&#x05D7;&#x05B7; et \u05e8\u05b4\u05d9\u05d7\u05b7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.51",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F10
+    "3.72.60.ab vb Pe resh et Ayin Ayin.actif et qualificatif": {
+        "Position": "10",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05e2. Toutes les formes attest\u00e9es (actifs et qualificatifs)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.60.ab",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.611.ab",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.72 Les verbes avec 1ère radicale Resh/F11
+    "3.72.61 vb Pe resh et Ayin Ayin gutt.rA'A'": {
+        "Position": "11",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05e8 et \u05e2\u05f4\u05e2 (avec \u05e2 = gutturale) : Le seul verbe \u05e8\u05b8\u05e2\u05b7\u05b7\u05e2",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.72.61",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.70.61.ab",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.73 Les verbes avec 1ère radicale Alef/F1
+    "3.73.05 vb Pe alef quiesc et Lamed He.type abah": {
+        "Position": "1",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d0 quiescent et \u05dc\u05f4\u05d4 : les 2 verbes \u05d0\u05b8\u05d1\u05b8\u05d4 et \u05d0\u05b8\u05e4\u05b8\u05d4 (tableau complet)",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.73.05",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.73 Les verbes avec 1ère radicale Alef/F2
+    "3.73.10.a vb Pe alef et Ayin gutt.type aHaz": {
+        "Position": "2",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d0 guttural ou quiescent et \u05e2\u05f4\u05d2\u05bc\u05f3 : le seul verbe \u05d0\u05b8\u05d7\u05b7\u05d6",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.73.10.a",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.73 Les verbes avec 1ère radicale Alef/F3
+    "3.73.10.b vb Pe alef et Ayin gutt.type ahev": {
+        "Position": "3",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d0 guttural ou quiescent et \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05d0\u05b8\u05d4\u05b5\u05d1",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.73.10.b",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F1
+    "3.74.01 vb Pe nun et Lamed gutt.type nagA": {
+        "Position": "1",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05df et \u05dc\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05e0\u05b8\u05d2\u05b7\u05e2",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.74.01",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F2
+    "3.74.02 vb Pe nun et Lamed resh.type nadar": {
+        "Position": "2",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05df et \u05dc\u05f4\u05e8 Mod\u00e8le \u05e0\u05b8\u05d3\u05b7\u05e8",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.74.02",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F3
+    "3.74.03 vb Pe nun et Lamed alef.type nasa": {
+        "Position": "3",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05df et \u05dc\u05f4\u05d0 Mod\u00e8le \u05e0\u05b8\u05d1\u05b8\u05d0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.74.03",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "cf. 3.913 &#x05E0;&#xFB2B;&#x05D0;",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F4
+    "3.74.05 vb Pe nun et Lamed he.type naTah": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05df et \u05dc\u05f4\u05d4 Mod\u00e8le \u05e0\u05b8\u05d8\u05b8\u05d4",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.74.05",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F5
+    "3.74.10 vb Pe nun et Ayin gutt.type naHah": {
+        "Position": "5",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05df et \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05e0\u05b8\u05d7\u05b7\u05dc",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.74.10",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "\u2248 3.413",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F6
+    "3.74.12 vb Pe nun.Ayin gutt et Lamed resh.type naAr": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05df et \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05e8 : les 4 seuls verbes &#x05E0;&#x05B8;&#x05E2;&#x05B7;&#x05E8;, &#x05E0;&#x05B8;&#x05D4;&#x05B7;&#x05E8;, &#x05E0;&#x05B8;&#x05D0;&#x05B7;&#x05E8; [et \u05e0\u05b8\u05d7\u05b7\u05e8 ?]",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.74.12",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F7
+    "3.74.15 vb Pe nun.Ayin gutt et Lamed He.type naHah": {
+        "Position": "7",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05df et \u05e2\u05f4\u05d2\u05bc\u05f3 et \u05dc\u05f4\u05d4 : les 3 seuls verbes &#x05E0;&#x05B8;&#x05D7;&#x05B8;&#x05D4;, &#x05E0;&#x05B8;&#x05D4;&#x05B8;&#x05D4; et \u05e0\u05b8\u05d0\u05b8\u05d4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.74.15",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.70.153",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F8
+    "3.74.51 vb Pe nun.Ayin waw et Lamed gutt": {
+        "Position": "8",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05df et \u05e2\u05f4\u05d5 et \u05dc\u05f4\u05d2\u05bc\u05f3 : les 2 seuls verbes <span style=\"unicode-bidi: isolate-override;\">&#x05B7;&#x05D7;&#xFB35;&#x05E0;</span> et <span style=\"unicode-bidi: isolate-override;\">&#x05B7;&#x05E2;&#xFB35;&#x05E0;</span> [+ <span style=\"unicode-bidi: isolate-override;\">&#x05D0;&#x05D9;&#x05E0;</span> ?]",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.74.51",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.70.51",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.74 Les verbes avec 1ère radicale Nun/F9
+    "3.74.60 vb Pe nun et Ayin Ayin.type nadad": {
+        "Position": "9",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05df et \u05e2\u05f4\u05e2 : le verbe \u05e0\u05b8\u05d3\u05b7\u05d3 et divers autres (tableau complet)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.74.60",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F1
+    "3.75.01.a vb Pe yod et Lamed gut.actif.type YadA": {
+        "Position": "1",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 et \u05dc\u05f4\u05d2\u05bc\u05f3 actifs Mod\u00e8le \u05d9\u05b8\u05d3\u05b7\u05e2 d\u00e9taill\u00e9",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.75.01.a",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "= 3.513",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F2
+    "3.75.01.b vb Pe yod et Lamed gut.qualif.type YageA": {
+        "Position": "2",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 et \u05dc\u05f4\u05d2\u05bc\u05f3 qualificatifs Mod\u00e8le \u05d9\u05b8\u05d2\u05b5\u05e2\u05b7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.75.01.b",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.514.B",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F3
+    "3.75.03.ab vb Pe yod et Lamed alef.Yatsa.Yara": {
+        "Position": "3",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 et \u05dc\u05f4\u05d0 simplifi\u00e9 : les 2 seuls verbes \u05d9\u05b8\u05e6\u05b8\u05d0 et \u05d9\u05b8\u05e8\u05b7\u05d0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.75.03.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "cf 3.908 et 3.909",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F4
+    "3.75.05.ab vb Pe yod et Lamed He.type Yarah": {
+        "Position": "4",
+        "nomAAfficher": "\u25baverbe \u05e4\u05f4\u05d9 et \u05dc\u05f4\u05d4 actifs et qualificatifs Mod&egrave;les <span style=\"unicode-bidi: isolate-override;\">&#x05D4;&#x05B8;&#x05D3;&#x05B8;&#x05D9;</span> [+ <span style=\"unicode-bidi: isolate-override;\">&#x05D4;&#x05B8;&#x05E8;&#x05B8;&#x05D9;</span>] et <span style=\"unicode-bidi: isolate-override;\">&#x05D4;&#x05B6;&#x05E4;&#x05B8;&#x05D9;</span>",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.75.05.ab",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "cf. 3.910",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F5
+    "3.75.10.a vb Pe yod et Ayin gut.actif.type YaHad": {
+        "Position": "5",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 et \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05d9\u05b8\u05d7\u05b7\u05d3 d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.75.10.a",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "= 3.512",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F6
+    "3.75.10.b vb Pe yod et Ayin gut.qualif.type YaAts": {
+        "Position": "6",
+        "nomAAfficher": "verbe \u05e4\u05f4\u05d9 et \u05e2\u05f4\u05d2\u05bc\u05f3 Mod\u00e8le \u05d9\u05b8\u05e2\u05b7\u05e5",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.75.10.b",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "= 3.514.A et B",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.7 - Les verbes complexes/3.75 Les verbes avec 1ère radicale Yod/F7
+    "3.75.60 vb Pe yod et Ayin Ayin.type yalel": {
+        "Position": "7",
+        "nomAAfficher": "verbes \u05e4\u05f4\u05d9 et \u05e2\u05f4\u05e2 : les 3 seuls verbes <span style=\"unicode-bidi: isolate-override;\">&#x05D1;&#x05B7;&#x05D1;&#x05B8;&#x05D9;</span>,<span style=\"unicode-bidi: isolate-override;\">&#x05DC;&#x05B7;&#x05DC;&#x05B8;&#x05D9;</span> [+ <span style=\"unicode-bidi: isolate-override;\">&#x05D3;&#x05B7;&#x05D3;&#x05B8;&#x05D9;</span> ?]",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.75.60",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.515",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F1
+    "3.801 vb hybride halakh.yalakh": {
+        "Position": "1",
+        "nomAAfficher": "\u25baLes verbes \u05d4\u05b8\u05dc\u05b7\u05da\u05b0 et \u05d9\u05b8\u05dc\u05b7\u05da\u05b0",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.801",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "cf. 3.211.a1 + 3.511",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F2
+    "3.802 vb hybride tov.yatav": {
+        "Position": "2",
+        "nomAAfficher": "\u25baLes verbes \u05d8\ufb4b\u05d1 et \u05d9\u05d8\u05d1",
+        "formatNomAAfficher": 2,
+        "codeAAfficher": "3.802",
+        "formatCodeAAfficher": 2,
+        "remarqueAAfficher": "cf. 3.524 + 3.515",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F3
+    "3.803 vb hybride yagor.gur": {
+        "Position": "3",
+        "nomAAfficher": "Les verbes \u05d9\u05b8\u05d2\u05b9\u05e8 et \u05d2\u05bc\ufb35\u05e8",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.803",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.514.C + 3.522",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F4
+    "3.804 vb hybride yatsav.natsav": {
+        "Position": "4",
+        "nomAAfficher": "Les verbes \u05d9\u05b8\u05e6\u05b7\u05d1 et \u05e0\u05b8\u05e6\u05b7\u05d1",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.804",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.514.A + 3.412",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F5
+    "3.805 vb hybride yaqets.qits": {
+        "Position": "5",
+        "nomAAfficher": "Les verbes \u05d9\u05b8\u05e7\u05b5\u05e5 et &#x05E7;&#xFB35;&#x05E5;",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.805",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.515 + 3.523",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F6
+    "3.806 vb hybride yaqosh.naqash": {
+        "Position": "6",
+        "nomAAfficher": "Les verbes \u05d9\u05b8\u05e7\u05b9\ufb2a et &#x05E7;&#xFB35;&#xFB2A;",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.806",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.514.C + 3.412",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F7
+    "3.807 vb hybride puH.nafaH": {
+        "Position": "7",
+        "nomAAfficher": "Les verbes \ufb44\ufb35\u05d7\u05b7 et \u05e0\u05b8\u05e4\u05b7\u05d7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.807",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.70.51 + 3.412",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.8 - Les verbes "hybrides"/F8
+    "3.808 vb hybride puts.nafats": {
+        "Position": "8",
+        "nomAAfficher": "Les verbes \ufb44\ufb35\u05e5 et &#xFB44;&#x05B8;&#x05E6;&#x05B7;&#x05E5;",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.808",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.522 + 3.412",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F1
+    "3.901 vb irreg bo'": {
+        "Position": "1",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \ufb31\ufb4b\u05d0",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.901",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.521 et 3.331",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F2
+    "3.902 vb irreg bosh": {
+        "Position": "2",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \ufb31\ufb4b\ufb2a",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.902",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.521 et 3.524",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F3
+    "3.903 vb irreg hayah": {
+        "Position": "3",
+        "nomAAfficher": "Le verbe unique &#x05D4;&#x05B8;&#x05D9;&#x05B8;&#x05D4; et &#x05D4;&#x05B8;&#x05D5;&#x05B8;&#x05D4;",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.903",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.71.056",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F4
+    "3.904 vb irreg Hayah": {
+        "Position": "4",
+        "nomAAfficher": "Le verbe unique \u05d7\u05b8\u05d9\u05b8\u05d4. Tableau d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.904",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.71.055",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F5
+    "3.905 vb irreg yakhol": {
+        "Position": "5",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05d9\u05b8\u05db\u05b9\u05dc",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.905",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.514.a et c",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F6
+    "3.906 vb irreg yasaf": {
+        "Position": "6",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05d9\u05b8\u05e1\u05b7\u05e3",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.906",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.511",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F7
+    "3.907 vb irreg yatsaq": {
+        "Position": "7",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05d9\u05b8\u05e6\u05b7\u05e7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.907",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.516+",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F8
+    "3.908 vb irreg yatsa'": {
+        "Position": "8",
+        "nomAAfficher": "Le verbe unique \u05d9\u05b8\u05e6\u05b8\u05d0. Tableau d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.908",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.75.03.a",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F9
+    "3.909 vb irreg yare'": {
+        "Position": "9",
+        "nomAAfficher": "Le verbe unique \u05d9\u05b8\u05e8\u05b5\u05d0. Tableau d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.909",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.75.03.b",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F10
+    "3.910 vb irreg yarah": {
+        "Position": "10",
+        "nomAAfficher": "Le verbe unique \u05d9\u05b8\u05e8\u05b8\u05d4. Tableau d\u00e9taill\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.910",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.75.05.ab",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F11
+    "3.911 vb irreg laqaH": {
+        "Position": "11",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05dc\u05b8\u05e7\u05b7\u05d7",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.911",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.74.01",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F12
+    "3.912 vb irreg mut": {
+        "Position": "12",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05de\ufb35\u05ea",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.912",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "cf. 3.520.ab",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F13
+    "3.913 vb irreg nasa": {
+        "Position": "13",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05e0\u05b8\ufb2b\u05b8\u05d0",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.913",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.74.03",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Les verbes. Tableaux des conjugaisons/3.9 - Les verbes irréguliers ou "à problème"/F14
+    "3.914 vb irreg natan": {
+        "Position": "14",
+        "nomAAfficher": "Le verbe irr\u00e9gulier \u05e0\u05b8\u05ea\u05b7\u05df",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "3.914",
+        "formatCodeAAfficher": 4,
+        "remarqueAAfficher": "\u2248 3.74.04",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Autres dossiers (de grammaire)/F1
+    "article": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baL'article d\u00e9fini et sa vocalisation",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Autres dossiers (de grammaire)/F2
+    "Flexion du nom.Suffixes": {
+        "Position": "2",
+        "nomAAfficher": "\u25ba\u25baLa flexion du nom avec les suffixes personnels",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Autres dossiers (de grammaire)/F3
+    "pronom Lamah": {
+        "Position": "3",
+        "nomAAfficher": "Le pronom \u05dc\u05b8\u05de\u05b8\u05d4 et son accentuation",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Autres dossiers (de grammaire)/F4
+    "pronom Mah et derives": {
+        "Position": "4",
+        "nomAAfficher": "Le pronom \u05de\u05b7\u05d4, sa vocalisation et ses d\u00e9riv\u00e9s",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Autres dossiers (de grammaire)/F5
+    "pronoms personnels": {
+        "Position": "5",
+        "nomAAfficher": "\u25baLes pronoms personnels (les diff\u00e9rents types)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/Mémoire sur le "Waw conversif"/F1
+    "Memoire corrige 2006.Tome 1": {
+        "Position": "1",
+        "nomAAfficher": "M\u00e9moire. Tome 1",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "188 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Mémoire sur le "Waw conversif"/F2
+    "Memoire corrige 2006.Tome 2": {
+        "Position": "2",
+        "nomAAfficher": "M\u00e9moire. Tome 2",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "82 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Mémoire sur le "Waw conversif"/F3
+    "Memoire corrige 2006.Encart 1": {
+        "Position": "3",
+        "nomAAfficher": "M\u00e9moire. Encart pour tome 1",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "2 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hebraique/Mémoire sur le "Waw conversif"/F4
+    "Memoire corrige 2006.Encart 2": {
+        "Position": "4",
+        "nomAAfficher": "M\u00e9moire. Encart pour tome 2",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "2 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/D1
+    "Des Mots de la Bible": {
+        "Position": "1",
+        "nomAAfficher": "Des Mots de la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/D2
+    "Des Racines Hebraiques": {
+        "Position": "2",
+        "nomAAfficher": "Des Racines H\u00e9bra\u00efques",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/D3
+    "Divers sujets en vrac": {
+        "Position": "3",
+        "nomAAfficher": "Divers sujets en vrac",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /D3
+    "En empruntant quelques chemins DLTJ": {
+        "Position": "3",
+        "nomAAfficher": "En empruntant quelques chemins dans la tradition juive",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /D4
+    "Quelques promenades dans le 'nouveau testament'": {
+        "Position": "4",
+        "nomAAfficher": "Quelques promenades dans le 'nouveau testament'",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Grammaire Hebraique/D4
+    "te'amim": {
+        "Position": "4",
+        "nomAAfficher": "Te'amim",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/D1
+    "Homme-Femme.Les mots de la Bible": {
+        "Position": "1",
+        "nomAAfficher": "Homme-Femme. Les mots de la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/D2
+    "L'assemblee  Qahal et Edah": {
+        "Position": "2",
+        "nomAAfficher": "L'Assembl\u00e9e : \u05e7\u05b8\u05d4\u05b8\u05dc et \u05e2\u05b5\u05d3\u05b8\u05d4",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/D3
+    "L'Etranger.Les mots de la Bible": {
+        "Position": "3",
+        "nomAAfficher": "L'\u00c9tranger. Les mots de la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/D4
+    "Les mots du Silence": {
+        "Position": "4",
+        "nomAAfficher": "Les mots du Silence dans la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/D5
+    "Les Noms de Dieu dans la Bible": {
+        "Position": "5",
+        "nomAAfficher": "Les Noms de Dieu dans la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Homme-Femme. Les mots de la Bible/F1
+    "Tableau Homme.Les mots": {
+        "Position": "1",
+        "nomAAfficher": "Homme. Les mots de la Bible. Tableau",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "52 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Homme-Femme. Les mots de la Bible/F2
+    "Homme.Lecture du tableau": {
+        "Position": "2",
+        "nomAAfficher": "Homme. Lecture du tableau",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "6 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Homme-Femme. Les mots de la Bible/F3
+    "Tableau Femme.Les mots": {
+        "Position": "3",
+        "nomAAfficher": "Femme. Les mots de la Bible. Tableau",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "18 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Homme-Femme. Les mots de la Bible/F4
+    "Femme.Lecture du  tableau": {
+        "Position": "4",
+        "nomAAfficher": "Femme. Lecture du tableau",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "7 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/L'Assemblée/F1
+    "Qahal et Edah Repart par livre": {
+        "Position": "1",
+        "nomAAfficher": "\u05e7\u05b8\u05d4\u05b8\u05dc et \u05e2\u05b5\u05d3\u05b8\u05d4. R\u00e9partition des mots par livre",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/L'Assemblée/F2
+    "Qahal expressions et sens": {
+        "Position": "2",
+        "nomAAfficher": "\u05e7\u05b8\u05d4\u05b8\u05dc. Les diverses formules et expressions utilisant ce mot",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "2 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/L'Étranger. Les mots de la Bible/F1
+    "Etranger.1.du grec a l'hebreu": {
+        "Position": "1",
+        "nomAAfficher": "\u00c9tranger. Les mots. Du grec \u00e0 l'h\u00e9breu",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "3 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/L'Étranger. Les mots de la Bible/F2
+    "Etranger.2.de l'hebreu au grec": {
+        "Position": "2",
+        "nomAAfficher": "\u00c9tranger. Les mots. De l'h\u00e9breu au grec",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "6 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Les mots du Silence dans la Bible/F1
+    "1 Rois 19.12.Elie=brise ou silence": {
+        "Position": "1",
+        "nomAAfficher": "1 Rois 19:12. \u00c9lie : brise ou silence ?",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page. Couleurs",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Les mots du Silence dans la Bible/F2
+    "Le vocabulaire du silence": {
+        "Position": "2",
+        "nomAAfficher": "Le vocabulaire du silence",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Les mots du Silence dans la Bible/F3
+    "Les mots du silence.Resume": {
+        "Position": "3",
+        "nomAAfficher": "Les mots du silence. R\u00e9sum\u00e9",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Les Noms de Dieu dans la Bible/F1
+    "Les Noms de Dieu.Tableau A3": {
+        "Position": "1",
+        "nomAAfficher": "Les Noms de Dieu. Grand tableau format A3",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "4 pages format A3",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Les Noms de Dieu dans la Bible/F2
+    "Les Noms de Dieu.Tsafon 40": {
+        "Position": "2",
+        "nomAAfficher": "Les noms de Dieu. Dossier publi\u00e9 dans la revue Tsafon num\u00e9ro 40",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "12 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Des Racines Hébraïques/D1
+    "K.P.R. Le verbe et la Racine": {
+        "Position": "1",
+        "nomAAfficher": "\ufb3b\u05be\u05e4\u05be\u05e8 . Le verbe et la racine",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Des Racines Hébraïques/D2
+    "Q.R.B.Le verbe et la Racine": {
+        "Position": "2",
+        "nomAAfficher": "\u05e7\u05be\u05e8\u05be\u05d1 . Le verbe et la racine",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Des Racines Hébraïques/D3
+    "Q.W.H.Le verbe et la Racine": {
+        "Position": "3",
+        "nomAAfficher": "\u05e7\u05be\u05d5\u05be\u05d4 . Le verbe et la racine",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/K.P.R. Le verbe et la Racine/F
+    "La racine KPR.champ semantique": {
+        "Position": "1",
+        "nomAAfficher": "La racine \ufb3b\u05be\u05e4\u05be\u05e8. Son champ s\u00e9mantique",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/K.P.R. Le verbe et la Racine/F2
+    "Kapper.Le verbe.Occurrences": {
+        "Position": "2",
+        "nomAAfficher": "\ufb3b\u05b4\ufb44\u05b5\u05e8. Le verbe.Ses 102 occurrences",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "14 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/K.P.R. Le verbe et la Racine/F3
+    "Kapper.Le verbe.Constructions diverses": {
+        "Position": "3",
+        "nomAAfficher": "\ufb3b\u05b4\ufb44\u05b5\u05e8. Le verbe.Ses constructions diverses",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "3 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Q.R.B.Le verbe et la Racine/F1
+    "La racine QRB.champ semantique": {
+        "Position": "1",
+        "nomAAfficher": "La racine \u05e7\u05be\u05e8\u05be\u05d1. Son champ s\u00e9mantique",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Q.R.B.Le verbe et la Racine/F2
+    "QRB.Les mots de la Racine.Occurrences": {
+        "Position": "2",
+        "nomAAfficher": "\u05e7\u05b8\u05e8\u05b7\u05d1. Le verbe. Ses 106 occurrences",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "47 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Q.W.H.Le verbe et la Racine/F1
+    "La racine QWH.champ semantique": {
+        "Position": "1",
+        "nomAAfficher": "La racine \u05e7\u05be\u05d5\u05be\u05d4. Son champ s\u00e9mantique",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "2 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/Q.W.H.Le verbe et la Racine/F2
+    "QWH.Les mots de la Racine.Occurrences": {
+        "Position": "2",
+        "nomAAfficher": "\u05e7\u05be\u05d5\u05be\u05d4. Les mots de la racine et toutes leurs occurrences",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "15 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F1
+    "petit B.A.BA du vocabulaire biblique": {
+        "Position": "1",
+        "nomAAfficher": "Petit B.A.BA du vocabulaire biblique",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F2
+    "des mots avec un sens abstrait au pluriel": {
+        "Position": "2",
+        "nomAAfficher": "des mots avec un sens abstrait au pluriel",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F3
+    "anokhi et ani dans la Torah": {
+        "Position": "3",
+        "nomAAfficher": "\u05d0\u05b2\u05e0\u05b9\u05db\u05b4\u05d9 et \u05d0\u05b2\u05e0\u05b4\u05d9 dans la Torah. Qui est le sujet ?",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "3 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F4
+    "La formule Waw.HYH.Ke": {
+        "Position": "4",
+        "nomAAfficher": "La formule Waw+Hayah+Ke- : \u05d5\u05b7\u05d9\u05b0\u05d4\u05b4\u05d9, \u05d5\u05b0\u05d4\u05b8\u05d9\u05b8\u05d4 et diverses autres",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "31 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F5
+    "Le vocabulaire du betail": {
+        "Position": "5",
+        "nomAAfficher": "Le vocabulaire du b\u00e9tail dans la Bible",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F6
+    "Les buissons dans la Bible": {
+        "Position": "6",
+        "nomAAfficher": "Buissons et \u00e9pineux dans la Bible",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "1 page",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F7
+    "Almah (et Alamot) des jeunes filles ou des instruments de musique": {
+        "Position": "7",
+        "nomAAfficher": "'Almah (et 'Alamot') : des jeunes filles ou des 'instruments de musique' ?",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F8
+    "Yobel – Jubile petite histoire du mot": {
+        "Position": "8",
+        "nomAAfficher": "Yobel – Jubil\u00e9 petite histoire du mot",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Divers sujets en vrac/F9
+    "Adam comme nom propre dans la Septante": {
+        "Position": "9",
+        "nomAAfficher": "Adam (XXXX) comme nom propre (XXXX) dans la Septante",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hébraïque/Les te'amim, pour "savourer" l'hébreu/F1
+    "Syntaxe des te'amim.10": {
+        "Position": "1",
+        "nomAAfficher": "\u25ba\u25baSyntaxe des te'amim",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "2 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hébraïque/Les te'amim, pour "savourer" l'hébreu/F2
+    "Recension des te'amim": {
+        "Position": "2",
+        "nomAAfficher": "Recension des te'amim",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "2 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hébraïque/Les te'amim, pour "savourer" l'hébreu/F3
+    "Cas speciaux": {
+        "Position": "3",
+        "nomAAfficher": "Cas sp\u00e9ciaux",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "4 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Grammaire Hébraïque/Les te'amim, pour "savourer" l'hébreu/F4
+    "Commentaires rabbiniques sur Qo 8.10": {
+        "Position": "4",
+        "nomAAfficher": "Commentaires rabbiniques sur Qo 8:10",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "5 pages",
+        "formatRemarqueAAfficher": 4
+    },
+# /Mots et Thèmes bibliques/Des Mots de la Bible/F6
+    "Misericorde et compassion, un ensemble riche mais confus": {
+        "Position": "6",
+        "nomAAfficher": "Mis\u00e9ricorde et compassion, un ensemble riche mais confus",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D1
+    "Reperes chronologiques": {
+        "Position": "1",
+        "nomAAfficher": "Reperes chronologiques µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Reperes chronologiques/F1
+    "Repertoire chronologique des principaux noms cites dans ce site": {
+        "Position": "1",
+        "nomAAfficher": "R\u00e9pertoire chronologique des principaux noms cit\u00e9s dans ce site",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Reperes chronologiques/F2
+    "Tableau des Amoraim en Babylonie": {
+        "Position": "2",
+        "nomAAfficher": "Tableau des Amoraim en Babylonie µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Reperes chronologiques/F3
+    "Tableau des Amoraim en Israel": {
+        "Position": "3",
+        "nomAAfficher": "Tableau des Amoraim en Israel µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Reperes chronologiques/F4
+    "Tableau des Tannaim principaux": {
+        "Position": "4",
+        "nomAAfficher": "Tableau des Tannaim principaux µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Reperes chronologiques/F5
+    "Les chretiens d'origine juive selon Mimouni 2004": {
+        "Position": "5",
+        "nomAAfficher": "Les chr\u00e9tiens d'origine juive selon Mimouni 2004",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D2
+    "Les 13 middot": {
+        "Position": "2",
+        "nomAAfficher": "Les 13 middot µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Les 13 middot/F1
+    "autoportrait du Dieu de la Bible": {
+        "Position": "1",
+        "nomAAfficher": "autoportrait du Dieu de la Bible ?",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Les 13 middot/F2
+    "Ex 34 6-7 ; commentaires rabbiniques": {
+        "Position": "2",
+        "nomAAfficher": "Ex 34:6-7 ; commentaires rabbiniques",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D3
+    "Talmud. Quelques textes commentes": {
+        "Position": "3",
+        "nomAAfficher": "Talmud. Quelques textes comment\u00e9s",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D4
+    "Le four d'Aknai": {
+        "Position": "4",
+        "nomAAfficher": "Le four d'Aknai [cf. Bava Metsia 59b] µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/5
+    "Na'aseh we-Nishma'. Midrash": {
+        "Position": "5",
+        "nomAAfficher": "Na'aseh we-Nishma'. Midrash µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D6
+    "Quatre sont entres au Pardes": {
+        "Position": "6",
+        "nomAAfficher": "Quatre sont entres au Pardes [cf. Hagiga 14b]",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D7
+    "Sujets en vrac": {
+        "Position": "7",
+        "nomAAfficher": "Divers sujets en vrac",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Divers sujets en vrac/F1
+    "La Aqedah": {
+        "Position": "1",
+        "nomAAfficher": "La Aqedah",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Divers sujets en vrac/F2
+    "Noe, le deluge, et la patience de Dieu": {
+        "Position": "2",
+        "nomAAfficher": "No\u00e9, le d\u00e9luge, et la patience de Dieu",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Divers sujets en vrac/F3
+    "Widui. Priere du Yom Kippur": {
+        "Position": "3",
+        "nomAAfficher": "Widui. Priere du Yom Kippur µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/D8
+    "Chants hebreux et Yiddish. Partitions": {
+        "Position": "8",
+        "nomAAfficher": "Chants h\u00e9breux et Yiddish. Partitions",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F1
+    "Ani leDodi. Ct 6,3 ; 7,12": {
+        "Position": "1",
+        "nomAAfficher": "Ani leDodi. Ct 6:3 ; 7:12",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F2
+    "Ani ma'amin. Varshever Geto-Lid": {
+        "Position": "2",
+        "nomAAfficher": "Ani ma'amin. Varshever Geto-Lid",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F3
+    "Ashre ha-ish. Ps 1,1-2": {
+        "Position": "3",
+        "nomAAfficher": "Ashre ha-ish. Ps 1:1-2 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F4
+    "Av ha-rahaman. Da 9,18-19": {
+        "Position": "4",
+        "nomAAfficher": "Av ha-rahaman. Da 9:18-19",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F5
+    "Barukh Elohenu": {
+        "Position": "5",
+        "nomAAfficher": "Barukh Elohenu µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F6
+    "Barukh ha-Maqom": {
+        "Position": "6",
+        "nomAAfficher": "Barukh ha-Maqom",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F7
+    "Betset Israel. Ps 114": {
+        "Position": "7",
+        "nomAAfficher": "Betset Israel. Ps 114 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F8
+    "ehad mi yodea . Comptine": {
+        "Position": "8",
+        "nomAAfficher": "Ehad mi yodea ?. Comptine µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F9
+    "Hashivenu eleikha": {
+        "Position": "9",
+        "nomAAfficher": "Hashivenu eleikha µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F10
+    "Hinneh lo yanum. Ps 121,1": {
+        "Position": "10",
+        "nomAAfficher": "Hinneh lo yanum. Ps 121:1 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F11
+    "Hinneh mah tov": {
+        "Position": "11",
+        "nomAAfficher": "Hinneh mah tov µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F12
+    "Kol ha-'olam kullo. N. de Braslaw": {
+        "Position": "12",
+        "nomAAfficher": "Kol ha-'olam kullo. N. de Braslaw",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F13
+    "Lekhah Dodi. Accueil du Shabbat": {
+        "Position": "13",
+        "nomAAfficher": "Lekhah Dodi. Accueil du Shabbat",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F14
+    "Lomir allen. A glazele vaijn": {
+        "Position": "14",
+        "nomAAfficher": "Lomir allen. A glazele vaijn",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F15
+    "Lou Yehi. Naomi Shemer": {
+        "Position": "15",
+        "nomAAfficher": "Lou Yehi. Naomi Shemer",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F16
+    "Ma'oz Tsour yeshouati (Paroles)": {
+        "Position": "16",
+        "nomAAfficher": "Ma'oz Tsour yeshouati (Paroles)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F17
+    "Mi ha-ish. Ps 34,13-15": {
+        "Position": "17",
+        "nomAAfficher": "Mi ha-ish. Ps 34:13-15",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F18
+    "Min ha-metsar. Ps 118,5-6": {
+        "Position": "18",
+        "nomAAfficher": "Min ha-metsar. Ps 118:5-6 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F19
+    "Od Yishama. Jr b33,10-11": {
+        "Position": "19",
+        "nomAAfficher": "Od Yishama. Jr b33:10-11",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F20
+    "Oyfn pripetschik RV": {
+        "Position": "20",
+        "nomAAfficher": "Oyfn pripetschik (recto-verso)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F21
+    "Qol Dodi. Ct 2,8": {
+        "Position": "21",
+        "nomAAfficher": "Qol Dodi. Ct 2:8",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F22
+    "Ronni we-simhi. Za 2,14": {
+        "Position": "22",
+        "nomAAfficher": "Ronni we-simhi. Za 2:14",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F23
+    "Shema Yisrael. De 6,4": {
+        "Position": "23",
+        "nomAAfficher": "Shema Yisrael. De 6:4",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F24
+    "Sim shalom": {
+        "Position": "24",
+        "nomAAfficher": "Sim shalom",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F25
+    "Wihuda le-olam teshev. Jl 4,20": {
+        "Position": "25",
+        "nomAAfficher": "Wihuda le-olam teshev. Jl 4:20 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F26
+    "Yedid Nephesh": {
+        "Position": "26",
+        "nomAAfficher": "Yedid Nephesh µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F27
+    "Yepheh noph. cf.Ps 48,3": {
+        "Position": "27",
+        "nomAAfficher": "Yepheh noph. cf.Ps 48:3 µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F28
+    "Yerushalayim shel zahav. Naomi Shemer": {
+        "Position": "28",
+        "nomAAfficher": "Yerushalayim shel zahav. Naomi Shemer µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F29
+    "Yevarekhekha hashem mi-Sion. Ps 128,5-6": {
+        "Position": "29",
+        "nomAAfficher": "Yevarekhekha hashem mi-Sion. Ps 128:5-6",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /En empruntant quelques chemins dans la tradition juive/Chants hebreux et Yiddish. Partitions/F30
+    "Zekhor davar. Ps 119,49-51 RV": {
+        "Position": "30",
+        "nomAAfficher": "Zekhor davar. Ps 119:49-51 [recto + verso]",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4
+    },
+# /Quelques promenades dans le 'nouveau testament'/D1
+    "Credo et Hymnes du NT": {
+        "Position": "1",
+        "nomAAfficher": "Cr\u00e9do et Hymnes du N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/D2
+    "Guerir et Sauver dans les Evangiles": {
+        "Position": "2",
+        "nomAAfficher": "Guérir et Sauver dans les Evangiles",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/D3
+    "Le 'Notre Pere' et sa traduction": {
+        "Position": "3",
+        "nomAAfficher": "Le 'Notre Père' et sa traduction",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/D4
+    "La Transfiguration synopse Mt, Mc, Lc": {
+        "Position": "4",
+        "nomAAfficher": "La Transfiguration : synopse Mt, Mc, Lc",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/D5
+    "Vocabulaire de la Redemption dans le NT": {
+        "Position": "5",
+        "nomAAfficher": "Vocabulaire de la Rédemption dans le N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/D6
+    "Des Sujets en vrac": {
+        "Position": "6",
+        "nomAAfficher": "Divers sujets en vrac",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/D1
+    "Formules liturgiques": {
+        "Position": "1",
+        "nomAAfficher": "Formules liturgiques",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/D2
+    "Source = Evangiles en Grec (Mt 6 et Lc 11)": {
+        "Position": "2",
+        "nomAAfficher": "Source = Evangiles en Grec (Mt 6 et Lc 11)",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/D3
+    "Source = Evangiles en langues orientales": {
+        "Position": "3",
+        "nomAAfficher": "Source := Evangiles en langues orientales",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/D4
+    "Source = Evangiles en latin": {
+        "Position": "4",
+        "nomAAfficher": "Source := Evangiles en latin",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/D5
+    "Traductions recentes": {
+        "Position": "5",
+        "nomAAfficher": "Traductions récentes",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Divers sujets en vrac/F1
+    "l'herbe verte en Mc 6,39": {
+        "Position": "1",
+        "nomAAfficher": "l'herbe verte en Mc 6,39",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Divers sujets en vrac/F2
+    "fruits bons et fruits pouris dans le NT": {
+        "Position": "2",
+        "nomAAfficher": "fruits bons et fruits pouris dans le N.T.",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Divers sujets en vrac/F3
+    "'au large' ou 'en eau profonde' Lc 5,1-11": {
+        "Position": "3",
+        "nomAAfficher": "'au large' ou 'en eau profonde' ? Lc 5,1-11",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Divers sujets en vrac/F4
+    "splancnizomai = 'pris aux tripes' dans le N.T": {
+        "Position": "4",
+        "nomAAfficher": "splancnizomai = 'pris aux tripes' dans le N.T. µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Formules liturgiques/F1
+    "Le N.P. liturgique en diverses langues": {
+        "Position": "1",
+        "nomAAfficher": "Le N.P. liturgique en diverses langues",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Formules liturgiques/F2
+    "Le N.P. liturgique hebreu et semitique": {
+        "Position": "2",
+        "nomAAfficher": "Le N.P. liturgique h\u00e9breu et s\u00e9mitique",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Formules liturgiques/F3
+    "Le N.P. liturgique neerlandais": {
+        "Position": "3",
+        "nomAAfficher": "Le N.P. liturgique n\u00e9erlandais",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Formules liturgiques/F4
+    "Le N.P. en arameen phonetique": {
+        "Position": "4",
+        "nomAAfficher": "Le N.P. en aram\u00e9en phon\u00e9tique",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Formules liturgiques/F5
+    "Le Notre Pere liturgique. Evolution": {
+        "Position": "5",
+        "nomAAfficher": "Le Notre Pere liturgique. Evolution µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source = Evangiles en Grec (Mt 6 et Lc 11)/F1
+    "Synopse Grec STE = Etienne et Erasme 1546-1551": {
+        "Position": "1",
+        "nomAAfficher": "Synopse Grec STE = Etienne et Erasme 1546-1551",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source = Evangiles en Grec (Mt 6 et Lc 11)/F2
+    "Synopse Grec Elzevir Textus Receptus 1624": {
+        "Position": "2",
+        "nomAAfficher": "Synopse Grec Elzevir Textus Receptus 1624",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source = Evangiles en Grec (Mt 6 et Lc 11)/F3
+    "Synopse Crec SCR = Scrivener Textus Receptue 1894": {
+        "Position": "3",
+        "nomAAfficher": "Synopse Crec SCR = Scrivener Textus Receptue 1894",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source = Evangiles en Grec (Mt 6 et Lc 11)/F4
+    "Synopse Grec TRG = Tregelles 1857-1879-2009": {
+        "Position": "4",
+        "nomAAfficher": "Synopse Grec TRG = Tregelles 1857-1879-2009",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source = Evangiles en Grec (Mt 6 et Lc 11)/F5
+    "Synopse Grec TIS et WHT =Tischendorf et Westcott-Hort 1881-2010": {
+        "Position": "5",
+        "nomAAfficher": "Synopse Grec TIS et WHT = Tischendorf et Westcott-Hort 1881-2010",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source = Evangiles en Grec (Mt 6 et Lc 11)/F6
+    "Synopse Grec Nestle-Aland BNT, 27 edition, 1996-2010": {
+        "Position": "6",
+        "nomAAfficher": "Synopse Grec Nestle-Aland BNT, 27 \u00e9dition, 1996-2010",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en langues orientales/F1
+    "Synopse Syriaque Peshitta en lettres hebraiques": {
+        "Position": "1",
+        "nomAAfficher": "Synopse Syriaque Peshitta en lettres h\u00e9braiques µ",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en langues orientales/F2
+    "Synopse. Retroversion en Hebreu. Delitzsch 1923": {
+        "Position": "2",
+        "nomAAfficher": "Synopse. R\u00e9troversion en H\u00e9breu. Delitzsch 1923",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en langues orientales/F3
+    "Synopse. Retroversion en Hebreu. Salkinson 1999": {
+        "Position": "3",
+        "nomAAfficher": "Synopse. R\u00e9troversion en H\u00e9breu. Salkinson 1999",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en latin/F1
+    "1546.Synopse Vulgate Biblia de Robert Estienne": {
+        "Position": "1",
+        "nomAAfficher": "1546.Synopse Vulgate Biblia de Robert Estienne",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en latin/F2
+    "1861.Synopse Vulgate Clementine": {
+        "Position": "2",
+        "nomAAfficher": "1861.Synopse Vulgate Clementine",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en latin/F3
+    "1979.Synopse Vulgate Nova Vulgata": {
+        "Position": "3",
+        "nomAAfficher": "1979.Synopse Vulgate Nova Vulgata",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Source := Evangiles en latin/F4
+    "1994.Synopse Vulgate de Stuttgart": {
+        "Position": "4",
+        "nomAAfficher": "1994.Synopse Vulgate de Stuttgart",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F1
+    "traduction Osty 1973": {
+        "Position": "1",
+        "nomAAfficher": "traduction Osty 1973",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F2
+    "traduction litterale de Sr J.d'Arc 1986-87": {
+        "Position": "2",
+        "nomAAfficher": "traduction litt\u00e9rale de Sr J.d'Arc 1986-87",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F3
+    "traduction Bible de Jerusalem 1998": {
+        "Position": "3",
+        "nomAAfficher": "traduction Bible de J\u00e9rusalem 1998",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F4
+    "traduction Bible Bayard.Nouvelle trad 2001": {
+        "Position": "4",
+        "nomAAfficher": "traduction Bible Bayard.Nouvelle trad 2001",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F5
+    "traduction Nouvelle Bible Segond 2002": {
+        "Position": "5",
+        "nomAAfficher": "traduction Nouvelle Bible Segond 2002",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F6
+    "traduction T.O.B. 2010": {
+        "Position": "6",
+        "nomAAfficher": "traduction T.O.B. 2010",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    },
+# /Quelques promenades dans le 'nouveau testament'/Le 'Notre Père' et sa traduction/Traductions récentes/F7
+    "traduction liturgique 2013": {
+        "Position": "7",
+        "nomAAfficher": "traduction liturgique 2013",
+        "formatNomAAfficher": 4,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "En cours",
+        "formatRemarqueAAfficher": 4 
+    }
+}
