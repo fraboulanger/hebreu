@@ -102,7 +102,7 @@
          dans le moindre "d&eacute;tail".
         </td>
         <td style="text-align: center; vertical-align: middle;">
-         <img alt="GrandM&egrave;re" src="grandM%C3%A8re.png" style="width: 363px; height: 268px;">
+         <img alt="GrandM&egrave;re" src="grandMere.png" style="width: 363px; height: 268px;">
         </td>
        </tr>
        <tr>

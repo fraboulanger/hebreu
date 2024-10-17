@@ -1,0 +1,3386 @@
+{
+    "En empruntant quelques chemins DLTJ": {
+        "Position": 1,
+        "nomAAfficher": "En empruntant quelques chemins DLTJ",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Grammaire Hebraique": {
+        "Position": 2,
+        "nomAAfficher": "Grammaire Hebraique",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Mots et Themes bibliques": {
+        "Position": 3,
+        "nomAAfficher": "Mots et Themes bibliques",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Quelques promenades dans le 'nouveau testament'": {
+        "Position": 4,
+        "nomAAfficher": "Quelques promenades dans le 'nouveau testament'",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Chants hebreux et Yiddish. Partitions": {
+        "Position": 1,
+        "nomAAfficher": "Chants hebreux et Yiddish. Partitions",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Le four d'Aknai": {
+        "Position": 2,
+        "nomAAfficher": "Le four d'Aknai",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Les 13 middot": {
+        "Position": 3,
+        "nomAAfficher": "Les 13 middot",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Na'aseh we-Nishma'. Midrash": {
+        "Position": 4,
+        "nomAAfficher": "Na'aseh we-Nishma'. Midrash",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Quatre sont entres au Pardes": {
+        "Position": 5,
+        "nomAAfficher": "Quatre sont entres au Pardes",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Reperes chronologiques": {
+        "Position": 6,
+        "nomAAfficher": "Reperes chronologiques",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Sujets en vrac": {
+        "Position": 7,
+        "nomAAfficher": "Sujets en vrac",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Talmud. Quelques textes commentes": {
+        "Position": 8,
+        "nomAAfficher": "Talmud. Quelques textes commentes",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Ani leDodi. Ct 6,3 ; 7,12": {
+        "Position": 1,
+        "nomAAfficher": "Ani leDodi. Ct 6,3 ; 7,12",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Ani ma'amin. Varshever Geto-Lid": {
+        "Position": 2,
+        "nomAAfficher": "Ani ma'amin. Varshever Geto-Lid",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Ashre ha-ish. Ps 1,1-2": {
+        "Position": 3,
+        "nomAAfficher": "Ashre ha-ish. Ps 1,1-2",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Av ha-rahaman. Da 9,18-19": {
+        "Position": 4,
+        "nomAAfficher": "Av ha-rahaman. Da 9,18-19",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Barukh Elohenu": {
+        "Position": 5,
+        "nomAAfficher": "Barukh Elohenu",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Barukh ha-Maqom": {
+        "Position": 6,
+        "nomAAfficher": "Barukh ha-Maqom",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Betset Israel. Ps 114": {
+        "Position": 7,
+        "nomAAfficher": "Betset Israel. Ps 114",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "ehad mi yodea . Comptine": {
+        "Position": 8,
+        "nomAAfficher": "ehad mi yodea . Comptine",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Hashivenu eleikha": {
+        "Position": 9,
+        "nomAAfficher": "Hashivenu eleikha",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Hinneh lo yanum. Ps 121,1": {
+        "Position": 10,
+        "nomAAfficher": "Hinneh lo yanum. Ps 121,1",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Hinneh mah tov": {
+        "Position": 11,
+        "nomAAfficher": "Hinneh mah tov",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Kol ha-'olam kullo. N. de Braslaw": {
+        "Position": 12,
+        "nomAAfficher": "Kol ha-'olam kullo. N. de Braslaw",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Lekhah Dodi. Accueil du Shabbat": {
+        "Position": 13,
+        "nomAAfficher": "Lekhah Dodi. Accueil du Shabbat",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Lomir allen. A glazele vaijn": {
+        "Position": 14,
+        "nomAAfficher": "Lomir allen. A glazele vaijn",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Lou Yehi. Naomi Shemer": {
+        "Position": 15,
+        "nomAAfficher": "Lou Yehi. Naomi Shemer",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Ma'oz Tsour yeshouati (Paroles)": {
+        "Position": 16,
+        "nomAAfficher": "Ma'oz Tsour yeshouati (Paroles)",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Mi ha-ish. Ps 34,13-15": {
+        "Position": 17,
+        "nomAAfficher": "Mi ha-ish. Ps 34,13-15",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Min ha-metsar. Ps 118,5-6": {
+        "Position": 18,
+        "nomAAfficher": "Min ha-metsar. Ps 118,5-6",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Od Yishama. Jr b33,10-11": {
+        "Position": 19,
+        "nomAAfficher": "Od Yishama. Jr b33,10-11",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Oyfn pripetschik RV": {
+        "Position": 20,
+        "nomAAfficher": "Oyfn pripetschik RV",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Qol Dodi. Ct 2,8": {
+        "Position": 21,
+        "nomAAfficher": "Qol Dodi. Ct 2,8",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Ronni we-simhi. Za 2,14": {
+        "Position": 22,
+        "nomAAfficher": "Ronni we-simhi. Za 2,14",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Shema Yisrael. De 6,4": {
+        "Position": 23,
+        "nomAAfficher": "Shema Yisrael. De 6,4",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Sim shalom": {
+        "Position": 24,
+        "nomAAfficher": "Sim shalom",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Wihuda le-olam teshev. Jl 4,20": {
+        "Position": 25,
+        "nomAAfficher": "Wihuda le-olam teshev. Jl 4,20",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Yedid Nephesh": {
+        "Position": 26,
+        "nomAAfficher": "Yedid Nephesh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Yepheh noph. cf.Ps 48,3": {
+        "Position": 27,
+        "nomAAfficher": "Yepheh noph. cf.Ps 48,3",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Yerushalayim shel zahav. Naomi Shemer": {
+        "Position": 28,
+        "nomAAfficher": "Yerushalayim shel zahav. Naomi Shemer",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Yevarekhekha hashem mi-Sion. Ps 128,5-6": {
+        "Position": 29,
+        "nomAAfficher": "Yevarekhekha hashem mi-Sion. Ps 128,5-6",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Zekhor davar. Ps 119,49-51 RV": {
+        "Position": 30,
+        "nomAAfficher": "Zekhor davar. Ps 119,49-51 RV",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "autoportrait du Dieu de la Bible": {
+        "Position": 1,
+        "nomAAfficher": "autoportrait du Dieu de la Bible",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Ex 34 6-7 ; commentaires rabbiniques": {
+        "Position": 2,
+        "nomAAfficher": "Ex 34 6-7 ; commentaires rabbiniques",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Les chretiens d'origine juive selon Mimouni 2004": {
+        "Position": 1,
+        "nomAAfficher": "Les chretiens d'origine juive selon Mimouni 2004",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Repertoire chronologique des principaux noms cites dans ce site": {
+        "Position": 2,
+        "nomAAfficher": "Repertoire chronologique des principaux noms cites dans ce site",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Tableau des Amoraim en Babylonie": {
+        "Position": 3,
+        "nomAAfficher": "Tableau des Amoraim en Babylonie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Tableau des Amoraim en Israel": {
+        "Position": 4,
+        "nomAAfficher": "Tableau des Amoraim en Israel",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Tableau des Tannaim principaux": {
+        "Position": 5,
+        "nomAAfficher": "Tableau des Tannaim principaux",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "La Aqedah": {
+        "Position": 1,
+        "nomAAfficher": "La Aqedah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Noe, le deluge, et la patience de Dieu": {
+        "Position": 2,
+        "nomAAfficher": "Noe, le deluge, et la patience de Dieu",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Widui. Priere du Yom Kippur": {
+        "Position": 3,
+        "nomAAfficher": "Widui. Priere du Yom Kippur",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "A.Elements de base de la Grammaire": {
+        "Position": 1,
+        "nomAAfficher": "A.Elements de base de la Grammaire",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "B.Les Verbes. Repertoire lexical": {
+        "Position": 2,
+        "nomAAfficher": "B.Les Verbes. Repertoire lexical",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "C.Les Verbes.Tableaux des conjugaisons": {
+        "Position": 3,
+        "nomAAfficher": "C.Les Verbes.Tableaux des conjugaisons",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "CD.Les te'amim, pour savourer l'hebreu": {
+        "Position": 4,
+        "nomAAfficher": "CD.Les te'amim, pour savourer l'hebreu",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "D.Autres dossiers (de grammaire)": {
+        "Position": 5,
+        "nomAAfficher": "D.Autres dossiers (de grammaire)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "E.Memoire sur le Waw conversif": {
+        "Position": 6,
+        "nomAAfficher": "E.Memoire sur le Waw conversif",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.000 Liste codee des tableaux de conjugaison": {
+        "Position": 1,
+        "nomAAfficher": "3.000 Liste codee des tableaux de conjugaison",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "cours Grammaire assemble": {
+        "Position": 2,
+        "nomAAfficher": "cours Grammaire assemble",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Les alphabets bibliques.Hebreu et Grec": {
+        "Position": 3,
+        "nomAAfficher": "Les alphabets bibliques.Hebreu et Grec",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.0 Repertoire lexical des verbes hebreux": {
+        "Position": 1,
+        "nomAAfficher": "3.0 Repertoire lexical des verbes hebreux",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.0+S Supplement lexique arameen": {
+        "Position": 2,
+        "nomAAfficher": "3.0+S Supplement lexique arameen",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.0 Generalite. Les binyanim": {
+        "Position": 1,
+        "nomAAfficher": "3.0 Generalite. Les binyanim",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.1 Conjugaison theorique et verbe Shalem": {
+        "Position": 2,
+        "nomAAfficher": "3.1 Conjugaison theorique et verbe Shalem",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.2 Verbe avec Gutturale": {
+        "Position": 3,
+        "nomAAfficher": "3.2 Verbe avec Gutturale",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.3 Verbe avec Alef quiescent": {
+        "Position": 4,
+        "nomAAfficher": "3.3 Verbe avec Alef quiescent",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.4 Verbe avec Nun": {
+        "Position": 5,
+        "nomAAfficher": "3.4 Verbe avec Nun",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.5 Verbe avec Yod ou Waw": {
+        "Position": 6,
+        "nomAAfficher": "3.5 Verbe avec Yod ou Waw",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.6 Verbe Gemine. Ayin-Ayin": {
+        "Position": 7,
+        "nomAAfficher": "3.6 Verbe Gemine. Ayin-Ayin",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.7 Verbes complexes": {
+        "Position": 8,
+        "nomAAfficher": "3.7 Verbes complexes",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.8 Verbes hybrides": {
+        "Position": 9,
+        "nomAAfficher": "3.8 Verbes hybrides",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.9 Verbes irreguliers ou a probleme": {
+        "Position": 10,
+        "nomAAfficher": "3.9 Verbes irreguliers ou a probleme",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.000 Liste codee des tableaux de conjugaison-bis": {
+        "Position": 1,
+        "nomAAfficher": "3.000 Liste codee des tableaux de conjugaison-bis",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.010 Tableau des binyanim": {
+        "Position": 2,
+        "nomAAfficher": "3.010 Tableau des binyanim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.011.R Sens compare paal piel hifil": {
+        "Position": 3,
+        "nomAAfficher": "3.011.R Sens compare paal piel hifil",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.020 Bases vocaliques des binyanim": {
+        "Position": 4,
+        "nomAAfficher": "3.020 Bases vocaliques des binyanim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.030 Les pronoms personnels": {
+        "Position": 5,
+        "nomAAfficher": "3.030 Les pronoms personnels",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.10 La conjugaison theorique": {
+        "Position": 1,
+        "nomAAfficher": "3.10 La conjugaison theorique",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.11 La conjugaison par binyan": {
+        "Position": 2,
+        "nomAAfficher": "3.11 La conjugaison par binyan",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.12 Verbe Shalem simplifie": {
+        "Position": 3,
+        "nomAAfficher": "3.12 Verbe Shalem simplifie",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.13 Verbe Shalem detaille": {
+        "Position": 4,
+        "nomAAfficher": "3.13 Verbe Shalem detaille",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.14 Verbe Shalem avec suffixes personnels": {
+        "Position": 5,
+        "nomAAfficher": "3.14 Verbe Shalem avec suffixes personnels",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.15 Verbe quasi Shalem": {
+        "Position": 6,
+        "nomAAfficher": "3.15 Verbe quasi Shalem",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.100 conjugaison theorique": {
+        "Position": 1,
+        "nomAAfficher": "3.100 conjugaison theorique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.100.E.cj theorique.grille vide": {
+        "Position": 2,
+        "nomAAfficher": "3.100.E.cj theorique.grille vide",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.101 bis cj theorique.Etape 1": {
+        "Position": 3,
+        "nomAAfficher": "3.101 bis cj theorique.Etape 1",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.102 bis cj theorique.Etape 2": {
+        "Position": 4,
+        "nomAAfficher": "3.102 bis cj theorique.Etape 2",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.103 bis cj theorique.Etape 3": {
+        "Position": 5,
+        "nomAAfficher": "3.103 bis cj theorique.Etape 3",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.110.Ra.Repertoire des vb shalem": {
+        "Position": 1,
+        "nomAAfficher": "3.110.Ra.Repertoire des vb shalem",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.110.Rb.Repertoire des vb qualificatifs": {
+        "Position": 2,
+        "nomAAfficher": "3.110.Rb.Repertoire des vb qualificatifs",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.111 bis cj theorique Paal Ia": {
+        "Position": 3,
+        "nomAAfficher": "3.111 bis cj theorique Paal Ia",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.111.a vb shalem Paal Ia type qatal": {
+        "Position": 4,
+        "nomAAfficher": "3.111.a vb shalem Paal Ia type qatal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.111.b vb shalem Paal Ib type kaved": {
+        "Position": 5,
+        "nomAAfficher": "3.111.b vb shalem Paal Ib type kaved",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.111.c vb shalem Paal Ic type qaton": {
+        "Position": 6,
+        "nomAAfficher": "3.111.c vb shalem Paal Ic type qaton",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.112 bis cj virtuelle du Passif du Qal": {
+        "Position": 7,
+        "nomAAfficher": "3.112 bis cj virtuelle du Passif du Qal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.112.R Repertoire des formes Passif du qal": {
+        "Position": 8,
+        "nomAAfficher": "3.112.R Repertoire des formes Passif du qal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.113 bis cj theorique Nifal": {
+        "Position": 9,
+        "nomAAfficher": "3.113 bis cj theorique Nifal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.113 vb shalem Nifal II": {
+        "Position": 10,
+        "nomAAfficher": "3.113 vb shalem Nifal II",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.114 bis cj theorique Piel": {
+        "Position": 11,
+        "nomAAfficher": "3.114 bis cj theorique Piel",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.114 vb shalem Piel III": {
+        "Position": 12,
+        "nomAAfficher": "3.114 vb shalem Piel III",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.115 bis cj theorique Pual": {
+        "Position": 13,
+        "nomAAfficher": "3.115 bis cj theorique Pual",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.115 vb shalem Pual IV": {
+        "Position": 14,
+        "nomAAfficher": "3.115 vb shalem Pual IV",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.116 bis cj theorique Hitpael": {
+        "Position": 15,
+        "nomAAfficher": "3.116 bis cj theorique Hitpael",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.116.A vb shalem Hitpael VII": {
+        "Position": 16,
+        "nomAAfficher": "3.116.A vb shalem Hitpael VII",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.116.B vb shalem Hitpael avec dentale": {
+        "Position": 17,
+        "nomAAfficher": "3.116.B vb shalem Hitpael avec dentale",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.116.C variantes du hitpael avec dentale": {
+        "Position": 18,
+        "nomAAfficher": "3.116.C variantes du hitpael avec dentale",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.117 bis cj theorique Hifil": {
+        "Position": 19,
+        "nomAAfficher": "3.117 bis cj theorique Hifil",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.117 vb shalem Hifil V": {
+        "Position": 20,
+        "nomAAfficher": "3.117 vb shalem Hifil V",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.118 bis cj theorique Hofal": {
+        "Position": 21,
+        "nomAAfficher": "3.118 bis cj theorique Hofal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.118 vb shalem Hofal VI": {
+        "Position": 22,
+        "nomAAfficher": "3.118 vb shalem Hofal VI",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.120 vb shalem cj 7 binyanim.simplifie": {
+        "Position": 1,
+        "nomAAfficher": "3.120 vb shalem cj 7 binyanim.simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.121 vb shalem cj 7 bin.simplifie.avec lignes": {
+        "Position": 2,
+        "nomAAfficher": "3.121 vb shalem cj 7 bin.simplifie.avec lignes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.121.E vb sh. 7 bin.grille vierge.avec lignes": {
+        "Position": 3,
+        "nomAAfficher": "3.121.E vb sh. 7 bin.grille vierge.avec lignes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.122 vb shalem cj 7 bin.avec begad-kefat": {
+        "Position": 4,
+        "nomAAfficher": "3.122 vb shalem cj 7 bin.avec begad-kefat",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.123 vb sh. quadrilittere type Targem.complet": {
+        "Position": 5,
+        "nomAAfficher": "3.123 vb sh. quadrilittere type Targem.complet",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.130+ vb shalem 7 bin.detaille": {
+        "Position": 1,
+        "nomAAfficher": "3.130+ vb shalem 7 bin.detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.131.ab+ vb shalem cj detaille Paal Iabc": {
+        "Position": 2,
+        "nomAAfficher": "3.131.ab+ vb shalem cj detaille Paal Iabc",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.132+ vb shalem cj detaille bin. qallim": {
+        "Position": 3,
+        "nomAAfficher": "3.132+ vb shalem cj detaille bin. qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.133+ vb shalem cj detaille bin. kevedim": {
+        "Position": 4,
+        "nomAAfficher": "3.133+ vb shalem cj detaille bin. kevedim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.134+ vb shalem cj detaille bin. goremim": {
+        "Position": 5,
+        "nomAAfficher": "3.134+ vb shalem cj detaille bin. goremim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.141.S vb shalem cj paal avec suffixes": {
+        "Position": 1,
+        "nomAAfficher": "3.141.S vb shalem cj paal avec suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.142.S vb shalem cj piel avec suffixes": {
+        "Position": 2,
+        "nomAAfficher": "3.142.S vb shalem cj piel avec suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.143.S vb shalem cj hifil avec suffixes": {
+        "Position": 3,
+        "nomAAfficher": "3.143.S vb shalem cj hifil avec suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.151 vb quasi shalem Lamed nun": {
+        "Position": 1,
+        "nomAAfficher": "3.151 vb quasi shalem Lamed nun",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.152 vb quasi shalem Lamed taw": {
+        "Position": 2,
+        "nomAAfficher": "3.152 vb quasi shalem Lamed taw",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.21 Verbes 1ere Gutturale.21": {
+        "Position": 1,
+        "nomAAfficher": "3.21 Verbes 1ere Gutturale.21",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.22 Verbes 2eme Gutturale.22": {
+        "Position": 2,
+        "nomAAfficher": "3.22 Verbes 2eme Gutturale.22",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.23 Verbes 3eme Gutturale": {
+        "Position": 3,
+        "nomAAfficher": "3.23 Verbes 3eme Gutturale",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.210.ab vb 1ere gutt. variantes Paal": {
+        "Position": 1,
+        "nomAAfficher": "3.210.ab vb 1ere gutt. variantes Paal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.210.R0 Repertoire simplifie des vb 1ere gutt dont alef": {
+        "Position": 2,
+        "nomAAfficher": "3.210.R0 Repertoire simplifie des vb 1ere gutt dont alef",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.210.R1+ Repertoire detaille de tous les vb Pe alef": {
+        "Position": 3,
+        "nomAAfficher": "3.210.R1+ Repertoire detaille de tous les vb Pe alef",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.210.R2+ Repertoire detaille des vb 1ere gutt sauf alef": {
+        "Position": 4,
+        "nomAAfficher": "3.210.R2+ Repertoire detaille des vb 1ere gutt sauf alef",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.211.a1 vb 1ere gutt. type Avad": {
+        "Position": 5,
+        "nomAAfficher": "3.211.a1 vb 1ere gutt. type Avad",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.211.a1+ vb 1ere gutt. type Avad detaille": {
+        "Position": 6,
+        "nomAAfficher": "3.211.a1+ vb 1ere gutt. type Avad detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.211.a2 vb 1ere gutt. type Hamal": {
+        "Position": 7,
+        "nomAAfficher": "3.211.a2 vb 1ere gutt. type Hamal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.211.a2+ vb 1ere gutt. type Hamal detaille": {
+        "Position": 8,
+        "nomAAfficher": "3.211.a2+ vb 1ere gutt. type Hamal detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.212.a1 vb 1ere gutt. type arav": {
+        "Position": 9,
+        "nomAAfficher": "3.212.a1 vb 1ere gutt. type arav",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.212.a2 vb 1ere gutt. type hadaf": {
+        "Position": 10,
+        "nomAAfficher": "3.212.a2 vb 1ere gutt. type hadaf",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.213.b1 vb 1ere gutt. type Hazeq": {
+        "Position": 11,
+        "nomAAfficher": "3.213.b1 vb 1ere gutt. type Hazeq",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.213.b2 vb 1ere gutt. type Haser": {
+        "Position": 12,
+        "nomAAfficher": "3.213.b2 vb 1ere gutt. type Haser",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.213.b3 vb 1ere gutt. type amets": {
+        "Position": 13,
+        "nomAAfficher": "3.213.b3 vb 1ere gutt. type amets",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.214.ab vb 1ere Resh. type radaf rakev": {
+        "Position": 14,
+        "nomAAfficher": "3.214.ab vb 1ere Resh. type radaf rakev",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.214.R1 Repertoire des vb avec 1ere resh": {
+        "Position": 15,
+        "nomAAfficher": "3.214.R1 Repertoire des vb avec 1ere resh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.220.Rc Repertoire simplifie des vb 2eme gutt": {
+        "Position": 1,
+        "nomAAfficher": "3.220.Rc Repertoire simplifie des vb 2eme gutt",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.221.ab vb 2eme gutt. allongmt type gaal": {
+        "Position": 2,
+        "nomAAfficher": "3.221.ab vb 2eme gutt. allongmt type gaal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.222.ab vb 2eme gutt. redoublmt virtuel type raHam": {
+        "Position": 3,
+        "nomAAfficher": "3.222.ab vb 2eme gutt. redoublmt virtuel type raHam",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.223.ab vb 2eme resh allongmt type barakh": {
+        "Position": 4,
+        "nomAAfficher": "3.223.ab vb 2eme resh allongmt type barakh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.230.Rc Repertoire des vb 3eme gutt": {
+        "Position": 1,
+        "nomAAfficher": "3.230.Rc Repertoire des vb 3eme gutt",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.231.ab vb 3eme gutt. type balA": {
+        "Position": 2,
+        "nomAAfficher": "3.231.ab vb 3eme gutt. type balA",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.311 vb Pe alef quiesc. type akhal": {
+        "Position": 1,
+        "nomAAfficher": "3.311 vb Pe alef quiesc. type akhal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.311+ vb Pe alef quiesc. type akhal detaille": {
+        "Position": 2,
+        "nomAAfficher": "3.311+ vb Pe alef quiesc. type akhal detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.330.Rc Repertoire des vb Lamed Alef": {
+        "Position": 3,
+        "nomAAfficher": "3.330.Rc Repertoire des vb Lamed Alef",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.331.ab vb Lamed alef.type matsa Tame": {
+        "Position": 4,
+        "nomAAfficher": "3.331.ab vb Lamed alef.type matsa Tame",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.410 Les types Pe nun.Resume": {
+        "Position": 1,
+        "nomAAfficher": "3.410 Les types Pe nun.Resume",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.410.Rb Repertoire des vb Pe nun.n.bl": {
+        "Position": 2,
+        "nomAAfficher": "3.410.Rb Repertoire des vb Pe nun.n.bl",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.410.Rc Repertoire des vb Pe nun.coul.detaille": {
+        "Position": 3,
+        "nomAAfficher": "3.410.Rc Repertoire des vb Pe nun.coul.detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.411 vb Pe nun.type nagash": {
+        "Position": 4,
+        "nomAAfficher": "3.411 vb Pe nun.type nagash",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.412 vb Pe nun.type nafal": {
+        "Position": 5,
+        "nomAAfficher": "3.412 vb Pe nun.type nafal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.413 vb Pe nun.type naHal": {
+        "Position": 6,
+        "nomAAfficher": "3.413 vb Pe nun.type naHal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.51 Verbes Pe Yod ou Waw": {
+        "Position": 1,
+        "nomAAfficher": "3.51 Verbes Pe Yod ou Waw",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.52 Verbes Ayin Yod ou Waw": {
+        "Position": 2,
+        "nomAAfficher": "3.52 Verbes Ayin Yod ou Waw",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.53 Verbes Lamed Yod ou Waw": {
+        "Position": 3,
+        "nomAAfficher": "3.53 Verbes Lamed Yod ou Waw",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.510 Les divers types de Pe yod.Resume": {
+        "Position": 1,
+        "nomAAfficher": "3.510 Les divers types de Pe yod.Resume",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.510.Rb Repertoire des vb Pe yod.n.bl": {
+        "Position": 2,
+        "nomAAfficher": "3.510.Rb Repertoire des vb Pe yod.n.bl",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.510.Rc Repertoire des vb Pe yod.coul": {
+        "Position": 3,
+        "nomAAfficher": "3.510.Rc Repertoire des vb Pe yod.coul",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.511 vb Pe yod waw 1F type yashav simplifie": {
+        "Position": 4,
+        "nomAAfficher": "3.511 vb Pe yod waw 1F type yashav simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.511+ vb Pe yod waw 1F type yashav detaille": {
+        "Position": 5,
+        "nomAAfficher": "3.511+ vb Pe yod waw 1F type yashav detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.512 vb Pe yod waw 1Fg2 type yaHad simplifie": {
+        "Position": 6,
+        "nomAAfficher": "3.512 vb Pe yod waw 1Fg2 type yaHad simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.513 vb ee yod waw 1Fg3 type yadA simplifie": {
+        "Position": 7,
+        "nomAAfficher": "3.513 vb ee yod waw 1Fg3 type yadA simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.514.A vb Pe yod waw 1N type yasad simplifie": {
+        "Position": 8,
+        "nomAAfficher": "3.514.A vb Pe yod waw 1N type yasad simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.514.abc vb Pe yod waw 1N modele simplifie": {
+        "Position": 9,
+        "nomAAfficher": "3.514.abc vb Pe yod waw 1N modele simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.514.B vb Pe yod waw 1N type yavesh simplifie": {
+        "Position": 10,
+        "nomAAfficher": "3.514.B vb Pe yod waw 1N type yavesh simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.514.C vb Pe yod waw 1N type yaqosh simplifie": {
+        "Position": 11,
+        "nomAAfficher": "3.514.C vb Pe yod waw 1N type yaqosh simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.515 vb Pe yod yod 2 type yaneq simplifie": {
+        "Position": 12,
+        "nomAAfficher": "3.515 vb Pe yod yod 2 type yaneq simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.515+ vb Pe yod yod 2 type yaneq detaille": {
+        "Position": 13,
+        "nomAAfficher": "3.515+ vb Pe yod yod 2 type yaneq detaille",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.516+ vb Pe yod tsadeh type 3 yatsav": {
+        "Position": 14,
+        "nomAAfficher": "3.516+ vb Pe yod tsadeh type 3 yatsav",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.516+Rc Repertoire Pe yod tsadeh.couleur": {
+        "Position": 15,
+        "nomAAfficher": "3.516+Rc Repertoire Pe yod tsadeh.couleur",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.520.ab vb Ayin waw et yod.variantes Paal": {
+        "Position": 1,
+        "nomAAfficher": "3.520.ab vb Ayin waw et yod.variantes Paal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.520.Rb Repertoire des vb Ayin waw.n.bl": {
+        "Position": 2,
+        "nomAAfficher": "3.520.Rb Repertoire des vb Ayin waw.n.bl",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.520.Rc Repertoire des vb Ayin waw.coul": {
+        "Position": 3,
+        "nomAAfficher": "3.520.Rc Repertoire des vb Ayin waw.coul",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.521 vb Ayin waw et yod simplifie": {
+        "Position": 4,
+        "nomAAfficher": "3.521 vb Ayin waw et yod simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.522+ vb Ayin waw type qum detaille.bin.qallim": {
+        "Position": 5,
+        "nomAAfficher": "3.522+ vb Ayin waw type qum detaille.bin.qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.523+ vb Ayin yod type sim detaille.bin.qallim": {
+        "Position": 6,
+        "nomAAfficher": "3.523+ vb Ayin yod type sim detaille.bin.qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.524+ vb Ayin waw type bosh detaille.bin.qallim": {
+        "Position": 7,
+        "nomAAfficher": "3.524+ vb Ayin waw type bosh detaille.bin.qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.525+ vb Ayin waw et yod detaille.bin.kevedim": {
+        "Position": 8,
+        "nomAAfficher": "3.525+ vb Ayin waw et yod detaille.bin.kevedim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.526+ vb Ayin waw et yod detaille.bin.goremim": {
+        "Position": 9,
+        "nomAAfficher": "3.526+ vb Ayin waw et yod detaille.bin.goremim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.530 vb Lamed He simplifie": {
+        "Position": 1,
+        "nomAAfficher": "3.530 vb Lamed He simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.530.Rc Repertoire des vb lamed He": {
+        "Position": 2,
+        "nomAAfficher": "3.530.Rc Repertoire des vb lamed He",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.531+ vb Lamed He detaille.bin.qallim": {
+        "Position": 3,
+        "nomAAfficher": "3.531+ vb Lamed He detaille.bin.qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.532+ vb Lamed He detaille.bin.kevedim": {
+        "Position": 4,
+        "nomAAfficher": "3.532+ vb Lamed He detaille.bin.kevedim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.533+ vb Lamed He detaille.bin.goremim": {
+        "Position": 5,
+        "nomAAfficher": "3.533+ vb Lamed He detaille.bin.goremim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.534.S vb Lamed He. Paal avec suffixes": {
+        "Position": 6,
+        "nomAAfficher": "3.534.S vb Lamed He. Paal avec suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.535.S vb Lamed He. Piel avec suffixes": {
+        "Position": 7,
+        "nomAAfficher": "3.535.S vb Lamed He. Piel avec suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.536.S vb Lamed He. Hifil avec suffixes": {
+        "Position": 8,
+        "nomAAfficher": "3.536.S vb Lamed He. Hifil avec suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.610.ab. vb Ayin-Ayin.variantes pa'al": {
+        "Position": 1,
+        "nomAAfficher": "3.610.ab. vb Ayin-Ayin.variantes pa'al",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.610.R+ Repertoire des vb Ayin Ayin": {
+        "Position": 2,
+        "nomAAfficher": "3.610.R+ Repertoire des vb Ayin Ayin",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.611.ab vb Ayin Ayin savav-qalal simplifie": {
+        "Position": 3,
+        "nomAAfficher": "3.611.ab vb Ayin Ayin savav-qalal simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70 Verbes avec 1ere Shalem": {
+        "Position": 1,
+        "nomAAfficher": "3.70 Verbes avec 1ere Shalem",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.71 Verbes avec 1ere Gutturale": {
+        "Position": 2,
+        "nomAAfficher": "3.71 Verbes avec 1ere Gutturale",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.72 Verbes avec 1ere Resh": {
+        "Position": 3,
+        "nomAAfficher": "3.72 Verbes avec 1ere Resh",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.73 Verbes avec 1ere Alef semi quiescent": {
+        "Position": 4,
+        "nomAAfficher": "3.73 Verbes avec 1ere Alef semi quiescent",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.74 Verbes avec 1ere Nun": {
+        "Position": 5,
+        "nomAAfficher": "3.74 Verbes avec 1ere Nun",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.75 Verbes avec 1ere Yod": {
+        "Position": 6,
+        "nomAAfficher": "3.75 Verbes avec 1ere Yod",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "3.70.13 vb Ayin gutt et Lamed alef type maHa": {
+        "Position": 1,
+        "nomAAfficher": "3.70.13 vb Ayin gutt et Lamed alef type maHa",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.151 vb Ayin gutt et Lamed He type taAh": {
+        "Position": 2,
+        "nomAAfficher": "3.70.151 vb Ayin gutt et Lamed He type taAh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.152 vb Ayin gutt et Lamed He type laah": {
+        "Position": 3,
+        "nomAAfficher": "3.70.152 vb Ayin gutt et Lamed He type laah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.153 vb Ayin gutt et Lamed He type kahah": {
+        "Position": 4,
+        "nomAAfficher": "3.70.153 vb Ayin gutt et Lamed He type kahah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.154 vb Ayin gutt et Lamed He type maHah": {
+        "Position": 5,
+        "nomAAfficher": "3.70.154 vb Ayin gutt et Lamed He type maHah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.21 vb Ayin resh et Lamed gutt type qarA": {
+        "Position": 6,
+        "nomAAfficher": "3.70.21 vb Ayin resh et Lamed gutt type qarA",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.23 vb Ayin resh et Lamed alef type qara": {
+        "Position": 7,
+        "nomAAfficher": "3.70.23 vb Ayin resh et Lamed alef type qara",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.25 vb Ayin resh et Lamed He type zarah": {
+        "Position": 8,
+        "nomAAfficher": "3.70.25 vb Ayin resh et Lamed He type zarah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.51 vb Ayin waw et Lamed gutt type siaH": {
+        "Position": 9,
+        "nomAAfficher": "3.70.51 vb Ayin waw et Lamed gutt type siaH",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.53 vb Ayin waw et Lamed alef": {
+        "Position": 10,
+        "nomAAfficher": "3.70.53 vb Ayin waw et Lamed alef",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.61.ab vb Ayin Ayin gutturale": {
+        "Position": 11,
+        "nomAAfficher": "3.70.61.ab vb Ayin Ayin gutturale",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.70.62.ab vb Ayin Ayin resh type sarar tsarar": {
+        "Position": 12,
+        "nomAAfficher": "3.70.62.ab vb Ayin Ayin resh type sarar tsarar",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.01 vb Pe gut et Lamed gut.type anaH": {
+        "Position": 1,
+        "nomAAfficher": "3.71.01 vb Pe gut et Lamed gut.type anaH",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.03 vb Pe gut et Lamed alef.type HaTa": {
+        "Position": 2,
+        "nomAAfficher": "3.71.03 vb Pe gut et Lamed alef.type HaTa",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.050 vb Pe gut et Lamed He.variantes paal": {
+        "Position": 3,
+        "nomAAfficher": "3.71.050 vb Pe gut et Lamed He.variantes paal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.051 vb Pe gut et Lamed He.type Asah": {
+        "Position": 4,
+        "nomAAfficher": "3.71.051 vb Pe gut et Lamed He.type Asah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.052+ vb Pe gut et Lamed He.Asah bin qallim": {
+        "Position": 5,
+        "nomAAfficher": "3.71.052+ vb Pe gut et Lamed He.Asah bin qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.053+ vb Pe gut et Lamed He.Asah bin kev.et.gor": {
+        "Position": 6,
+        "nomAAfficher": "3.71.053+ vb Pe gut et Lamed He.Asah bin kev.et.gor",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.054 vb Pe gut et Lamed He.type Hatah": {
+        "Position": 7,
+        "nomAAfficher": "3.71.054 vb Pe gut et Lamed He.type Hatah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.055 vb Pe gut et Lamed He.type hamah": {
+        "Position": 8,
+        "nomAAfficher": "3.71.055 vb Pe gut et Lamed He.type hamah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.056 vb Pe gut et Lamed He.type hagah": {
+        "Position": 9,
+        "nomAAfficher": "3.71.056 vb Pe gut et Lamed He.type hagah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.251 vb Pe gut. 2 resh. 3 He.'arah": {
+        "Position": 10,
+        "nomAAfficher": "3.71.251 vb Pe gut. 2 resh. 3 He.'arah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.255 vb Pe gut. 2 resh. 3 He.Harah": {
+        "Position": 11,
+        "nomAAfficher": "3.71.255 vb Pe gut. 2 resh. 3 He.Harah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.50 vb Pe gut et Ayin waw.type Od": {
+        "Position": 12,
+        "nomAAfficher": "3.71.50 vb Pe gut et Ayin waw.type Od",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.60 vb Pe gut et Ayin Ayin.type Halal": {
+        "Position": 13,
+        "nomAAfficher": "3.71.60 vb Pe gut et Ayin Ayin.type Halal",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.71.62.ab vb Pe gut et Ayin Ayin resh": {
+        "Position": 14,
+        "nomAAfficher": "3.71.62.ab vb Pe gut et Ayin Ayin resh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.01 vb Pe resh et Lamed gutt.type ratsaH": {
+        "Position": 1,
+        "nomAAfficher": "3.72.01 vb Pe resh et Lamed gutt.type ratsaH",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.03 vb Pe resh et Lamed alef.type rafa": {
+        "Position": 2,
+        "nomAAfficher": "3.72.03 vb Pe resh et Lamed alef.type rafa",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.05.ab vb Pe resh et Lamed He.type ratsah": {
+        "Position": 3,
+        "nomAAfficher": "3.72.05.ab vb Pe resh et Lamed He.type ratsah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.10.ab vb Pe resh et Ayin gutt.type raHam": {
+        "Position": 4,
+        "nomAAfficher": "3.72.10.ab vb Pe resh et Ayin gutt.type raHam",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.150 vb raah.simplifie": {
+        "Position": 5,
+        "nomAAfficher": "3.72.150 vb raah.simplifie",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.151+ vb raah.detaille.bin qallim": {
+        "Position": 6,
+        "nomAAfficher": "3.72.151+ vb raah.detaille.bin qallim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.152+ vb raah.detaille.autres bin": {
+        "Position": 7,
+        "nomAAfficher": "3.72.152+ vb raah.detaille.autres bin",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.50 vb Pe gut et Ayin waw.type rum": {
+        "Position": 8,
+        "nomAAfficher": "3.72.50 vb Pe gut et Ayin waw.type rum",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.51 vb Pe gut.Ayin waw.Lamed gut.type ruA'": {
+        "Position": 9,
+        "nomAAfficher": "3.72.51 vb Pe gut.Ayin waw.Lamed gut.type ruA'",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.60.ab vb Pe resh et Ayin Ayin.actif et qualificatif": {
+        "Position": 10,
+        "nomAAfficher": "3.72.60.ab vb Pe resh et Ayin Ayin.actif et qualificatif",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.72.61 vb Pe resh et Ayin Ayin gutt.rA'A'": {
+        "Position": 11,
+        "nomAAfficher": "3.72.61 vb Pe resh et Ayin Ayin gutt.rA'A'",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.73.05 vb Pe alef quiesc et Lamed He.type abah": {
+        "Position": 1,
+        "nomAAfficher": "3.73.05 vb Pe alef quiesc et Lamed He.type abah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.73.10.a vb Pe alef et Ayin gutt.type aHaz": {
+        "Position": 2,
+        "nomAAfficher": "3.73.10.a vb Pe alef et Ayin gutt.type aHaz",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.73.10.b vb Pe alef et Ayin gutt.type ahev": {
+        "Position": 3,
+        "nomAAfficher": "3.73.10.b vb Pe alef et Ayin gutt.type ahev",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.01 vb Pe nun et Lamed gutt.type nagA": {
+        "Position": 1,
+        "nomAAfficher": "3.74.01 vb Pe nun et Lamed gutt.type nagA",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.02 vb Pe nun et Lamed resh.type nadar": {
+        "Position": 2,
+        "nomAAfficher": "3.74.02 vb Pe nun et Lamed resh.type nadar",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.03 vb Pe nun et Lamed alef.type nasa": {
+        "Position": 3,
+        "nomAAfficher": "3.74.03 vb Pe nun et Lamed alef.type nasa",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.05 vb Pe nun et Lamed he.type naTah": {
+        "Position": 4,
+        "nomAAfficher": "3.74.05 vb Pe nun et Lamed he.type naTah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.10 vb Pe nun et Ayin gutt.type naHah": {
+        "Position": 5,
+        "nomAAfficher": "3.74.10 vb Pe nun et Ayin gutt.type naHah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.12 vb Pe nun.Ayin gutt et Lamed resh.type naAr": {
+        "Position": 6,
+        "nomAAfficher": "3.74.12 vb Pe nun.Ayin gutt et Lamed resh.type naAr",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.15 vb Pe nun.Ayin gutt et Lamed He.type naHah": {
+        "Position": 7,
+        "nomAAfficher": "3.74.15 vb Pe nun.Ayin gutt et Lamed He.type naHah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.51 vb Pe nun.Ayin waw et Lamed gutt": {
+        "Position": 8,
+        "nomAAfficher": "3.74.51 vb Pe nun.Ayin waw et Lamed gutt",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.74.60 vb Pe nun et Ayin Ayin.type nadad": {
+        "Position": 9,
+        "nomAAfficher": "3.74.60 vb Pe nun et Ayin Ayin.type nadad",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.01.a vb Pe yod et Lamed gut.actif.type YadA": {
+        "Position": 1,
+        "nomAAfficher": "3.75.01.a vb Pe yod et Lamed gut.actif.type YadA",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.01.b vb Pe yod et Lamed gut.qualif.type YageA": {
+        "Position": 2,
+        "nomAAfficher": "3.75.01.b vb Pe yod et Lamed gut.qualif.type YageA",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.03.ab vb Pe yod et Lamed alef.Yatsa.Yara": {
+        "Position": 3,
+        "nomAAfficher": "3.75.03.ab vb Pe yod et Lamed alef.Yatsa.Yara",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.05.ab vb Pe yod et Lamed He.type Yarah": {
+        "Position": 4,
+        "nomAAfficher": "3.75.05.ab vb Pe yod et Lamed He.type Yarah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.10.a vb Pe yod et Ayin gut.actif.type YaHad": {
+        "Position": 5,
+        "nomAAfficher": "3.75.10.a vb Pe yod et Ayin gut.actif.type YaHad",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.10.b vb Pe yod et Ayin gut.qualif.type YaAts": {
+        "Position": 6,
+        "nomAAfficher": "3.75.10.b vb Pe yod et Ayin gut.qualif.type YaAts",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.75.60 vb Pe yod et Ayin Ayin.type yalel": {
+        "Position": 7,
+        "nomAAfficher": "3.75.60 vb Pe yod et Ayin Ayin.type yalel",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.801 vb hybride halakh.yalakh": {
+        "Position": 1,
+        "nomAAfficher": "3.801 vb hybride halakh.yalakh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.802 vb hybride tov.yatav": {
+        "Position": 2,
+        "nomAAfficher": "3.802 vb hybride tov.yatav",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.803 vb hybride yagor.gur": {
+        "Position": 3,
+        "nomAAfficher": "3.803 vb hybride yagor.gur",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.804 vb hybride yatsav.natsav": {
+        "Position": 4,
+        "nomAAfficher": "3.804 vb hybride yatsav.natsav",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.805 vb hybride yaqets.qits": {
+        "Position": 5,
+        "nomAAfficher": "3.805 vb hybride yaqets.qits",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.806 vb hybride yaqosh.naqash": {
+        "Position": 6,
+        "nomAAfficher": "3.806 vb hybride yaqosh.naqash",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.807 vb hybride puH.nafaH": {
+        "Position": 7,
+        "nomAAfficher": "3.807 vb hybride puH.nafaH",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.808 vb hybride puts.nafats": {
+        "Position": 8,
+        "nomAAfficher": "3.808 vb hybride puts.nafats",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.901 vb irreg bo'": {
+        "Position": 1,
+        "nomAAfficher": "3.901 vb irreg bo'",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.902 vb irreg bosh": {
+        "Position": 2,
+        "nomAAfficher": "3.902 vb irreg bosh",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.903 vb irreg hayah": {
+        "Position": 3,
+        "nomAAfficher": "3.903 vb irreg hayah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.904 vb irreg Hayah": {
+        "Position": 4,
+        "nomAAfficher": "3.904 vb irreg Hayah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.905 vb irreg yakhol": {
+        "Position": 5,
+        "nomAAfficher": "3.905 vb irreg yakhol",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.906 vb irreg yasaf": {
+        "Position": 6,
+        "nomAAfficher": "3.906 vb irreg yasaf",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.907 vb irreg yatsaq": {
+        "Position": 7,
+        "nomAAfficher": "3.907 vb irreg yatsaq",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.908 vb irreg yatsa'": {
+        "Position": 8,
+        "nomAAfficher": "3.908 vb irreg yatsa'",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.909 vb irreg yare'": {
+        "Position": 9,
+        "nomAAfficher": "3.909 vb irreg yare'",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.910 vb irreg yarah": {
+        "Position": 10,
+        "nomAAfficher": "3.910 vb irreg yarah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.911 vb irreg laqaH": {
+        "Position": 11,
+        "nomAAfficher": "3.911 vb irreg laqaH",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.912 vb irreg mut": {
+        "Position": 12,
+        "nomAAfficher": "3.912 vb irreg mut",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.913 vb irreg nasa": {
+        "Position": 13,
+        "nomAAfficher": "3.913 vb irreg nasa",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "3.914 vb irreg natan": {
+        "Position": 14,
+        "nomAAfficher": "3.914 vb irreg natan",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Cas speciaux": {
+        "Position": 1,
+        "nomAAfficher": "Cas speciaux",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Commentaires rabbiniques sur Qo 8.10": {
+        "Position": 2,
+        "nomAAfficher": "Commentaires rabbiniques sur Qo 8.10",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Recension des te'amim": {
+        "Position": 3,
+        "nomAAfficher": "Recension des te'amim",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Syntaxe des te'amim.10": {
+        "Position": 4,
+        "nomAAfficher": "Syntaxe des te'amim.10",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "article": {
+        "Position": 1,
+        "nomAAfficher": "article",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Flexion du nom.Suffixes": {
+        "Position": 2,
+        "nomAAfficher": "Flexion du nom.Suffixes",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "pronom Lamah": {
+        "Position": 3,
+        "nomAAfficher": "pronom Lamah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "pronom Mah et derives": {
+        "Position": 4,
+        "nomAAfficher": "pronom Mah et derives",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "pronoms personnels": {
+        "Position": 5,
+        "nomAAfficher": "pronoms personnels",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Memoire corrige 2006.Encart 1": {
+        "Position": 1,
+        "nomAAfficher": "Memoire corrige 2006.Encart 1",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Memoire corrige 2006.Encart 2": {
+        "Position": 2,
+        "nomAAfficher": "Memoire corrige 2006.Encart 2",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Memoire corrige 2006.Tome 1": {
+        "Position": 3,
+        "nomAAfficher": "Memoire corrige 2006.Tome 1",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Memoire corrige 2006.Tome 2": {
+        "Position": 4,
+        "nomAAfficher": "Memoire corrige 2006.Tome 2",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Des Mots de la Bible": {
+        "Position": 1,
+        "nomAAfficher": "Des Mots de la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Des Racines Hebraiques": {
+        "Position": 2,
+        "nomAAfficher": "Des Racines Hebraiques",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Divers sujets en vrac": {
+        "Position": 3,
+        "nomAAfficher": "Divers sujets en vrac",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Homme-Femme.Les mots de la Bible": {
+        "Position": 1,
+        "nomAAfficher": "Homme-Femme.Les mots de la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "L'assemblee  Qahal et Edah": {
+        "Position": 2,
+        "nomAAfficher": "L'assemblee  Qahal et Edah",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "L'Etranger.Les mots de la Bible": {
+        "Position": 3,
+        "nomAAfficher": "L'Etranger.Les mots de la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Les mots du Silence": {
+        "Position": 4,
+        "nomAAfficher": "Les mots du Silence",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Les Noms de Dieu dans la Bible": {
+        "Position": 5,
+        "nomAAfficher": "Les Noms de Dieu dans la Bible",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Misericorde et compassion, un ensemble riche mais confus": {
+        "Position": 6,
+        "nomAAfficher": "Misericorde et compassion, un ensemble riche mais confus",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Femme.Lecture du  tableau": {
+        "Position": 1,
+        "nomAAfficher": "Femme.Lecture du  tableau",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Homme.Lecture du tableau": {
+        "Position": 2,
+        "nomAAfficher": "Homme.Lecture du tableau",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Tableau Femme.Les mots": {
+        "Position": 3,
+        "nomAAfficher": "Tableau Femme.Les mots",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Tableau Homme.Les mots": {
+        "Position": 4,
+        "nomAAfficher": "Tableau Homme.Les mots",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Qahal et Edah Repart par livre": {
+        "Position": 1,
+        "nomAAfficher": "Qahal et Edah Repart par livre",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Qahal expressions et sens": {
+        "Position": 2,
+        "nomAAfficher": "Qahal expressions et sens",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Etranger.1.du grec a l'hebreu": {
+        "Position": 1,
+        "nomAAfficher": "Etranger.1.du grec a l'hebreu",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Etranger.2.de l'hebreu au grec": {
+        "Position": 2,
+        "nomAAfficher": "Etranger.2.de l'hebreu au grec",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "1 Rois 19.12.Elie=brise ou silence": {
+        "Position": 1,
+        "nomAAfficher": "1 Rois 19.12.Elie=brise ou silence",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Le vocabulaire du silence": {
+        "Position": 2,
+        "nomAAfficher": "Le vocabulaire du silence",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Les mots du silence.Resume": {
+        "Position": 3,
+        "nomAAfficher": "Les mots du silence.Resume",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Les Noms de Dieu.Tableau A3": {
+        "Position": 1,
+        "nomAAfficher": "Les Noms de Dieu.Tableau A3",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Les Noms de Dieu.Tsafon 40": {
+        "Position": 2,
+        "nomAAfficher": "Les Noms de Dieu.Tsafon 40",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "K.P.R. Le verbe et la Racine": {
+        "Position": 1,
+        "nomAAfficher": "K.P.R. Le verbe et la Racine",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Q.R.B.Le verbe et la Racine": {
+        "Position": 2,
+        "nomAAfficher": "Q.R.B.Le verbe et la Racine",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Q.W.H.Le verbe et la Racine": {
+        "Position": 3,
+        "nomAAfficher": "Q.W.H.Le verbe et la Racine",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Kapper.Le verbe.Constructions diverses": {
+        "Position": 1,
+        "nomAAfficher": "Kapper.Le verbe.Constructions diverses",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Kapper.Le verbe.Occurrences": {
+        "Position": 2,
+        "nomAAfficher": "Kapper.Le verbe.Occurrences",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "La racine KPR.champ semantique": {
+        "Position": 3,
+        "nomAAfficher": "La racine KPR.champ semantique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "La racine QRB.champ semantique": {
+        "Position": 1,
+        "nomAAfficher": "La racine QRB.champ semantique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "QRB.Les mots de la Racine.Occurrences": {
+        "Position": 2,
+        "nomAAfficher": "QRB.Les mots de la Racine.Occurrences",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "La racine QWH.champ semantique": {
+        "Position": 1,
+        "nomAAfficher": "La racine QWH.champ semantique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "QWH.Les mots de la Racine.Occurrences": {
+        "Position": 2,
+        "nomAAfficher": "QWH.Les mots de la Racine.Occurrences",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Adam comme nom propre dans la Septante": {
+        "Position": 1,
+        "nomAAfficher": "Adam comme nom propre dans la Septante",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Almah (et Alamot) des jeunes filles ou des instruments de musique": {
+        "Position": 2,
+        "nomAAfficher": "Almah (et Alamot) des jeunes filles ou des instruments de musique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "anokhi et ani dans la Torah": {
+        "Position": 3,
+        "nomAAfficher": "anokhi et ani dans la Torah",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "des mots avec un sens abstrait au pluriel": {
+        "Position": 4,
+        "nomAAfficher": "des mots avec un sens abstrait au pluriel",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "La formule Waw.HYH.Ke": {
+        "Position": 5,
+        "nomAAfficher": "La formule Waw.HYH.Ke",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Le vocabulaire du betail": {
+        "Position": 6,
+        "nomAAfficher": "Le vocabulaire du betail",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Les buissons dans la Bible": {
+        "Position": 7,
+        "nomAAfficher": "Les buissons dans la Bible",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "petit B.A.BA du vocabulaire biblique": {
+        "Position": 8,
+        "nomAAfficher": "petit B.A.BA du vocabulaire biblique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Yobel \u2013 Jubile petite histoire du mot": {
+        "Position": 9,
+        "nomAAfficher": "Yobel \u2013 Jubile petite histoire du mot",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Credo et Hymnes du NT": {
+        "Position": 1,
+        "nomAAfficher": "Credo et Hymnes du NT",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Des Sujets en vrac": {
+        "Position": 2,
+        "nomAAfficher": "Des Sujets en vrac",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Guerir et Sauver dans les Evangiles": {
+        "Position": 3,
+        "nomAAfficher": "Guerir et Sauver dans les Evangiles",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "La Transfiguration synopse Mt, Mc, Lc": {
+        "Position": 4,
+        "nomAAfficher": "La Transfiguration synopse Mt, Mc, Lc",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Le 'Notre Pere' et sa traduction": {
+        "Position": 5,
+        "nomAAfficher": "Le 'Notre Pere' et sa traduction",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Vocabulaire de la Redemption dans le NT": {
+        "Position": 6,
+        "nomAAfficher": "Vocabulaire de la Redemption dans le NT",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "'au large' ou 'en eau profonde' Lc 5,1-11": {
+        "Position": 1,
+        "nomAAfficher": "'au large' ou 'en eau profonde' Lc 5,1-11",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "fruits bons et fruits pouris dans le NT": {
+        "Position": 2,
+        "nomAAfficher": "fruits bons et fruits pouris dans le NT",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "l'herbe verte en Mc 6,39": {
+        "Position": 3,
+        "nomAAfficher": "l'herbe verte en Mc 6,39",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "splancnizomai = 'pris aux tripes' dans le N.T": {
+        "Position": 4,
+        "nomAAfficher": "splancnizomai = 'pris aux tripes' dans le N.T",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Formules liturgiques": {
+        "Position": 1,
+        "nomAAfficher": "Formules liturgiques",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Source = Evangiles en Grec (Mt 6 et Lc 11)": {
+        "Position": 2,
+        "nomAAfficher": "Source = Evangiles en Grec (Mt 6 et Lc 11)",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Source = Evangiles en langues orientales": {
+        "Position": 3,
+        "nomAAfficher": "Source = Evangiles en langues orientales",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Source = Evangiles en latin": {
+        "Position": 4,
+        "nomAAfficher": "Source = Evangiles en latin",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Traductions recentes": {
+        "Position": 5,
+        "nomAAfficher": "Traductions recentes",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Le N.P. en arameen phonetique": {
+        "Position": 1,
+        "nomAAfficher": "Le N.P. en arameen phonetique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Le N.P. liturgique en diverses langues": {
+        "Position": 2,
+        "nomAAfficher": "Le N.P. liturgique en diverses langues",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Le N.P. liturgique hebreu et semitique": {
+        "Position": 3,
+        "nomAAfficher": "Le N.P. liturgique hebreu et semitique",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Le N.P. liturgique neerlandais": {
+        "Position": 4,
+        "nomAAfficher": "Le N.P. liturgique neerlandais",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Le Notre Pere liturgique. Evolution": {
+        "Position": 5,
+        "nomAAfficher": "Le Notre Pere liturgique. Evolution",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Crec SCR = Scrivener Textus Receptue 1894": {
+        "Position": 1,
+        "nomAAfficher": "Synopse Crec SCR = Scrivener Textus Receptue 1894",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Grec Elzevir Textus Receptus 1624": {
+        "Position": 2,
+        "nomAAfficher": "Synopse Grec Elzevir Textus Receptus 1624",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Grec Nestle-Aland BNT, 27 edition, 1996-2010": {
+        "Position": 3,
+        "nomAAfficher": "Synopse Grec Nestle-Aland BNT, 27 edition, 1996-2010",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Grec STE = Etienne et Erasme 1546-1551": {
+        "Position": 4,
+        "nomAAfficher": "Synopse Grec STE = Etienne et Erasme 1546-1551",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Grec TIS et WHT =Tischendorf et Westcott-Hort 1881-2010": {
+        "Position": 5,
+        "nomAAfficher": "Synopse Grec TIS et WHT =Tischendorf et Westcott-Hort 1881-2010",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Grec TRG = Tregelles 1857-1879-2009": {
+        "Position": 6,
+        "nomAAfficher": "Synopse Grec TRG = Tregelles 1857-1879-2009",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse Syriaque Peshitta en lettres hebraiques": {
+        "Position": 1,
+        "nomAAfficher": "Synopse Syriaque Peshitta en lettres hebraiques",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse. Retroversion en Hebreu. Delitzsch 1923": {
+        "Position": 2,
+        "nomAAfficher": "Synopse. Retroversion en Hebreu. Delitzsch 1923",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "Synopse. Retroversion en Hebreu. Salkinson 1999": {
+        "Position": 3,
+        "nomAAfficher": "Synopse. Retroversion en Hebreu. Salkinson 1999",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "1546.Synopse Vulgate Biblia de Robert Estienne": {
+        "Position": 1,
+        "nomAAfficher": "1546.Synopse Vulgate Biblia de Robert Estienne",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "1861.Synopse Vulgate Clementine": {
+        "Position": 2,
+        "nomAAfficher": "1861.Synopse Vulgate Clementine",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "1979.Synopse Vulgate Nova Vulgata": {
+        "Position": 3,
+        "nomAAfficher": "1979.Synopse Vulgate Nova Vulgata",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "1994.Synopse Vulgate de Stuttgart": {
+        "Position": 4,
+        "nomAAfficher": "1994.Synopse Vulgate de Stuttgart",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction Bible Bayard.Nouvelle trad 2001": {
+        "Position": 1,
+        "nomAAfficher": "traduction Bible Bayard.Nouvelle trad 2001",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction Bible de Jerusalem 1998": {
+        "Position": 2,
+        "nomAAfficher": "traduction Bible de Jerusalem 1998",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction litterale de Sr J.d'Arc 1986-87": {
+        "Position": 3,
+        "nomAAfficher": "traduction litterale de Sr J.d'Arc 1986-87",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction liturgique 2013": {
+        "Position": 4,
+        "nomAAfficher": "traduction liturgique 2013",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction Nouvelle Bible Segond 2002": {
+        "Position": 5,
+        "nomAAfficher": "traduction Nouvelle Bible Segond 2002",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction Osty 1973": {
+        "Position": 6,
+        "nomAAfficher": "traduction Osty 1973",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    },
+    "traduction T.O.B. 2010": {
+        "Position": 7,
+        "nomAAfficher": "traduction T.O.B. 2010",
+        "formatNomAAfficher": 3,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 3,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 3
+    }
+}

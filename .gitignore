@@ -1,0 +1,5 @@
+# Dossiers et/ou fichiers à ignorer dans les transferts
+ancien*
+.bak
+nppBackup
+#  ### FIN ###

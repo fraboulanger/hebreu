@@ -1,0 +1,20 @@
+{
+    "En empruntant quelques chemins DLTJ": {
+        "Position": 1,
+        "nomAAfficher": "En empruntant quelques chemins DLTJ",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    },
+    "Grammaire Hebraique": {
+        "Position": 2,
+        "nomAAfficher": "Grammaire H\u00e9bra\u00efque",
+        "formatNomAAfficher": 1,
+        "codeAAfficher": "",
+        "formatCodeAAfficher": 5,
+        "remarqueAAfficher": "",
+        "formatRemarqueAAfficher": 5
+    }
+}

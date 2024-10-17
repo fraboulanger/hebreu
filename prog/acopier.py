@@ -3,6 +3,7 @@
 import os
 import argparse
 import re
+version="0.7" #modifié le 20241011 "\..." -> r"/..." pour python 3.13
 #----------------------------------------------------------------------------
 
 def recurse(dossierEnCoursOri,dossierEnCoursCible,trouve,remplace):
@@ -38,7 +39,7 @@ def recurse(dossierEnCoursOri,dossierEnCoursCible,trouve,remplace):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     dossierProg=os.path.normcase(os.path.abspath(os.getcwd()))
-    dossierProg=re.sub("/[^/]+/\.\./|/\./","/",dossierProg.replace("\\","/"))
+    dossierProg=re.sub(r"/[^/]+/\.\./|/\./","/",dossierProg.replace(r"\\",r"/"))
 #    print(f"{dossierProg=}")
     parser.add_argument("-r", "--root", help="root of file tree", default="../aCopier")
     parser.add_argument("-s", "--site", help="dossier racine des documents sur le site", default="hebreu3.1")
@@ -47,8 +48,8 @@ if __name__ == "__main__":
     version="1.0"
     if args.root[0:3]=="../" :
         args.root=os.path.normcase(os.path.join(dossierProg,"..\\"))
-    args.root=re.sub("/[^/]+/\.\./|/\./","/",args.root.replace("\\","/"))
-    args.root=re.sub("/$","",args.root)
+    args.root=re.sub(r"/[^/]+/\.\./|/\./",r"/",args.root.replace(r"\\",r"/"))
+    args.root=re.sub(r"/$","",args.root)
 #    print(f"{args.root=}")
     racineSite=args.site
 #    print(f"{racineSite=}")
