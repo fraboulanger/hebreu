@@ -1,7 +1,7 @@
 @echo off
 echo ****************************************
 echo **   Creation du site pour Francis    **
-echo ********************************* V.4 **
+echo ********************************* V.5 **
 echo .
 echo Pour fonctionner, cela necessite le langague python
 echo           et les bibliotheques : beautifulsoup4, html5lib, bottle, hjson( en standard : csv, argparse, html, io ,os )
@@ -9,10 +9,11 @@ echo .
 set ServeurLocal=OK
 rem les variables de chez guy et de chez francis
 IF "%HOMEPATH%" EQU "\Users\easy.DESKTOP-3IRAM0C" (
-set racine=D:\GitHub\Hebreu
+set racine=D:\hebreu
 ) ELSE (
-set racine=D:\Hebreu
+set racine=D:\hebreu
 )
+set site=hebreu
 set version=3.2
 rem goto :serveurlocal
 echo.
@@ -32,7 +33,7 @@ echo ****************************************
 echo.
 if not exist %racine%\html (mkdir %racine%\html)
 if not exist %racine%\html\TDM (mkdir %racine%\html\TDM)
-if not exist %racine%\html\mef (mkdir %racine%\html\mef)
+if not exist %racine%\mef (mkdir %racine%\mef)
 echo fin Cree les dossiers
 :sautecredos
 echo.
@@ -53,9 +54,9 @@ echo **    Recopie les fichiers de aCopier **
 echo ****************************************
 echo.
 IF "%HOMEPATH%" EQU "\Users\easy.DESKTOP-3IRAM0C" (
-python acopier.py --site Hebreu
+python acopier.py --site %site%
 ) ELSE (
-python acopier.py --site Hebreu
+python acopier.py --site %site%
 )
 echo fin de copie des fichiers initiaux
 
@@ -94,7 +95,7 @@ echo ****************************************
 echo.
 rem goto :eof
 rem goto :sautetdm
-python genereTDM.py --site=Hebreu
+python genereTDM.py --site=%site%
 echo fin Cree la table des matieres 
 rem pause
 :sautetdm
