@@ -77,7 +77,7 @@ echo ****************************************
 echo.
 cd %racine%\prog
 rem goto :eof
-python genereSiteFrancis.py --version=%version%
+python genereSiteFrancis.py --version=%version% --root=hebreu
 echo fin Cree la version %version%
 rem pause
 echo.

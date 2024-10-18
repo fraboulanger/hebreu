@@ -11,7 +11,8 @@
 # Créer un dossier "/complements" pour les fichiers de transformation des noms de fichiers en titre (struct et corrections),
 #                                      les fichiers des remarques, introduction, conclusion des pages et élements d'index
 #
-version =0.6 # modification de racineSite="Hebreu" et non hebreu3.1 et ajout des paramètres args
+version =0.7  # convertion site Hebreu => hebreu
+#version =0.6 # modification de racineSite="Hebreu" et non hebreu3.1 et ajout des paramètres args
 import os
 import argparse
 import html
@@ -217,7 +218,7 @@ def translite(nom,champ,valeurDefaut=""):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-v", "--version", help="numéro de version affiché sur les pages du site", default="3.1")
-    parser.add_argument("-r", "--root", help="racine du site", default="Hebreu")
+    parser.add_argument("-r", "--root", help="racine du site", default="hebreu")
     args = parser.parse_args()
     #
     # Constantes
